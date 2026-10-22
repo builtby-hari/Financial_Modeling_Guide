@@ -1,0 +1,2 @@
+{"type":"waterfall","title":"Profit Up, Cash Down","subtitle":"Net income to cash flow from operations, $ thousands","source":"Module 02, Part 1, made-up numbers",
+"fmt":{"decimals":0},"steps":[{"label":"Net income","value":75,"total":true},{"label":"Receivables","value":-100},{"label":"Inventory","value":-100},{"label":"Cash flow from ops","value":-125,"total":true}]}

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Taxable Income vs NOL Used">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Taxable Income vs NOL Used</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">The NOL shelters income until it runs out in year 4</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Taxable income</text>
+<rect x="168.8" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="186.8" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">NOL used</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0</text>
+<line x1="78" x2="732" y1="324.8" y2="324.8" stroke="#e2e8f0"/>
+<text x="70.0" y="328.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">20</text>
+<line x1="78" x2="732" y1="273.6" y2="273.6" stroke="#e2e8f0"/>
+<text x="70.0" y="277.6" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">40</text>
+<line x1="78" x2="732" y1="222.4" y2="222.4" stroke="#e2e8f0"/>
+<text x="70.0" y="226.4" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">60</text>
+<line x1="78" x2="732" y1="171.2" y2="171.2" stroke="#e2e8f0"/>
+<text x="70.0" y="175.2" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">80</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">100</text>
+<rect x="104.8" y="350.4" width="54.0" height="25.6" rx="2" fill="#1f3a5f"/>
+<text x="131.8" y="345.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">10</text>
+<rect x="160.8" y="350.4" width="54.0" height="25.6" rx="2" fill="#14b8a6"/>
+<text x="187.8" y="345.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">10</text>
+<rect x="268.2" y="273.6" width="54.0" height="102.4" rx="2" fill="#1f3a5f"/>
+<text x="295.2" y="268.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">40</text>
+<rect x="324.2" y="273.6" width="54.0" height="102.4" rx="2" fill="#14b8a6"/>
+<text x="351.2" y="268.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">40</text>
+<rect x="431.8" y="171.2" width="54.0" height="204.8" rx="2" fill="#1f3a5f"/>
+<text x="458.8" y="166.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">80</text>
+<rect x="487.8" y="273.6" width="54.0" height="102.4" rx="2" fill="#14b8a6"/>
+<text x="514.8" y="268.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">40</text>
+<rect x="595.2" y="145.6" width="54.0" height="230.4" rx="2" fill="#1f3a5f"/>
+<text x="622.2" y="140.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">90</text>
+<rect x="651.2" y="222.4" width="54.0" height="153.6" rx="2" fill="#14b8a6"/>
+<text x="678.2" y="217.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">60</text>
+<text x="159.8" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 1</text>
+<text x="323.2" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 2</text>
+<text x="486.8" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 3</text>
+<text x="650.2" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 4</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 04, made-up numbers</text>
+</svg>

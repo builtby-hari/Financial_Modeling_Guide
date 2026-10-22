@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Enterprise Value by Method">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Enterprise Value by Method</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Comps average, DCF and blended EV for each company</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Comps average</text>
+<rect x="161.60000000000002" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="179.6" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">DCF</text>
+<rect x="223.20000000000002" y="78" width="12" height="12" rx="2" fill="#94a3b8"/>
+<text x="241.2" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Blended</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$0.0M</text>
+<line x1="78" x2="732" y1="290.7" y2="290.7" stroke="#e2e8f0"/>
+<text x="70.0" y="294.7" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$100.0M</text>
+<line x1="78" x2="732" y1="205.3" y2="205.3" stroke="#e2e8f0"/>
+<text x="70.0" y="209.3" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$200.0M</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$300.0M</text>
+<rect x="158.5" y="235.2" width="54.0" height="140.8" rx="2" fill="#1f3a5f"/>
+<text x="185.5" y="230.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$165.0M</text>
+<rect x="214.5" y="248.0" width="54.0" height="128.0" rx="2" fill="#14b8a6"/>
+<text x="241.5" y="243.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$150.0M</text>
+<rect x="270.5" y="241.6" width="54.0" height="134.4" rx="2" fill="#94a3b8"/>
+<text x="297.5" y="236.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$157.5M</text>
+<rect x="485.5" y="179.7" width="54.0" height="196.3" rx="2" fill="#1f3a5f"/>
+<text x="512.5" y="174.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$230.0M</text>
+<rect x="541.5" y="154.1" width="54.0" height="221.9" rx="2" fill="#14b8a6"/>
+<text x="568.5" y="149.1" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$260.0M</text>
+<rect x="597.5" y="166.9" width="54.0" height="209.1" rx="2" fill="#94a3b8"/>
+<text x="624.5" y="161.9" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$245.0M</text>
+<text x="241.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Parent</text>
+<text x="568.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Spinco</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 11, Part 2, made-up numbers</text>
+</svg>

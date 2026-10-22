@@ -1,0 +1,31 @@
+{
+ "type": "waterfall",
+ "title": "Spinco DCF Bridge to Equity Value",
+ "subtitle": "Implied enterprise value to implied equity value",
+ "source": "Module 11, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Implied EV",
+   "value": 900,
+   "total": true
+  },
+  {
+   "label": "Less debt",
+   "value": -271
+  },
+  {
+   "label": "Plus cash",
+   "value": 230
+  },
+  {
+   "label": "Implied equity",
+   "value": 859,
+   "total": true
+  }
+ ]
+}

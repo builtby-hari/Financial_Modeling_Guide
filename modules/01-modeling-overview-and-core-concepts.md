@@ -129,6 +129,10 @@ flowchart LR
 
 At 8% Option A costs less in present value, even though its undiscounted cash out looks worse. At a lower rate the gap shrinks, and at a higher rate Option B gets more attractive because the big deposit ties up money that could earn more.
 
+![Present Value of Two Lease Options at 8%](../docs/charts/01-lease-pv.svg)
+
+*Option A looks worse on raw cash out, but its present value cost is smaller.*
+
 > [!WARNING]
 > **Beyond the basics.** The common mistake is to compare the nominal sums (an easy trap in interviews). Also note the rate you use is a judgment: it should match the risk of the cash flow, not your personal savings rate. For bank pricing work, the same idea shows up as the spread over a benchmark curve: a mortgage bond is worth less when market yields rise because its future coupons are discounted at a higher rate.
 
@@ -182,6 +186,10 @@ At 8% Option A costs less in present value, even though its undiscounted cash ou
 
 The PV of the five years is **310,163**. Against the $300,000 price, **NPV = +10,163**, so buy. At a 9% discount rate the PV falls to about 285,800, which gives an NPV of about -14,200 and flips the answer to pass. That is the sensitivity you should show.
 
+![Rental Property NPV by Discount Rate](../docs/charts/01-npv-vs-rate.svg)
+
+*The same property flips from buy to pass as the discount rate rises.*
+
 > [!TIP]
 > **Beyond the basics.** In practice, a single discount rate hides most of the work. A good analyst shows a small grid (discount rate by exit multiple, for example) and says where the answer changes. The same logic applies to security pricing: a bond or MBS is "cheap" or "rich" against its market price, and the answer depends on the prepayment and rate assumptions you feed in. Fair-value work on a large portfolio is this exact exercise at scale.
 
@@ -206,6 +214,10 @@ The PV of the five years is **310,163**. Against the $300,000 price, **NPV = +10
 | **NPV** | | **+79.87** | **0.00** | **-72.08** |
 
 The IRR is 10%. At a target of 8% you invest. At a target of 12% you pass. Excel would show the same 10% from =IRR() on the row.
+
+![NPV of the Five-Year Instrument by Rate](../docs/charts/01-irr-npv.svg)
+
+*NPV is positive below the IRR, zero at the IRR and negative above it.*
 
 Simple case check: put in $100 and get $200 back after five years with nothing in between. IRR = 2^(1/5) − 1 = 14.87%.
 
@@ -263,6 +275,10 @@ Project P has the higher IRR but fails its own hurdle, so it is rejected. The tr
 
 The value explodes as growth approaches the discount rate. That is why you should be skeptical of any long-run growth rate close to the discount rate.
 
+![Value of a 200 Cash Flow by Growth Rate](../docs/charts/01-growth-value.svg)
+
+*Value climbs slowly at first, then explodes as growth nears the 12% discount rate.*
+
 **Worked example 2 (two-stage valuation, made-up numbers).** Cash flows: 100 in year 1, 120 in year 2, 140 in year 3. After year 3 the cash flow grows at 3% forever. Discount rate 10%.
 
 - Terminal cash flow in year 4 = 140 × 1.03 = 144.2
@@ -272,6 +288,10 @@ The value explodes as growth approaches the discount rate. That is why you shoul
 - **Total value today ≈ 1,843**
 
 About 84% of the value sits in the terminal piece. This is the normal pattern in valuation, and it explains why the growth and discount rate assumptions matter so much.
+
+![Two-Stage Valuation Build-Up](../docs/charts/01-two-stage.svg)
+
+*Most of the value sits in the terminal piece, which is why the growth and discount rate assumptions matter so much.*
 
 > [!TIP]
 > **Beyond the basics.** The formula assumes cash flow is the right number. Use free cash flow to the firm or to equity, not net income, and make sure the terminal year is normal (no one-time gains, capex close to depreciation or growth-consistent). The terminal growth rate is usually set at or below long-run nominal GDP growth. A common interview question is "why can't g exceed r forever?" Answer: the company would grow to be bigger than the economy. In practice, analysts also cross-check terminal value with an exit multiple.

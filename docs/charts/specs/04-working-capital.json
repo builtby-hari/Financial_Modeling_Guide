@@ -1,0 +1,30 @@
+{
+ "type": "waterfall",
+ "title": "Working Capital Cash Impact",
+ "subtitle": "Deferred revenue growth funds the receivables build",
+ "source": "Module 04, made-up numbers",
+ "fmt": {
+  "prefix": "",
+  "suffix": "",
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Deferred revenue",
+   "value": 50
+  },
+  {
+   "label": "Receivables",
+   "value": -20
+  },
+  {
+   "label": "Payables and provisions",
+   "value": 6
+  },
+  {
+   "label": "Total working capital",
+   "value": 36,
+   "total": true
+  }
+ ]
+}

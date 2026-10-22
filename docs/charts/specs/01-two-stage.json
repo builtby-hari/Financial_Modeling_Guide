@@ -1,0 +1,2 @@
+{"type":"waterfall","title":"Two-Stage Valuation Build-Up","subtitle":"Present value of each piece at a 10% discount rate","source":"Module 01, made-up numbers",
+"fmt":{"decimals":0},"steps":[{"label":"Year 1 PV","value":91},{"label":"Year 2 PV","value":99},{"label":"Year 3 PV","value":105},{"label":"Terminal PV","value":1548},{"label":"Total value","value":1843,"total":true}]}

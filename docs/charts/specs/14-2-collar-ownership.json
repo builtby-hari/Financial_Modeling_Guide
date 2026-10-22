@@ -1,0 +1,2 @@
+{"type":"line","title":"Target Ownership by Partner Share Price","subtitle":"Floating ratio, fixed ratio with a collar and plain fixed ratio","source":"Module 14, Part 2, made-up numbers","fmt":{"suffix":"%","decimals":1},"x_label":"Partner share price ($)","tight":true,
+"x":[16,18,20,22,24],"series":[{"name":"Floating ratio","values":[71.4,69.0,66.7,64.5,62.5]},{"name":"Fixed ratio with collar","values":[69.2,66.7,66.7,66.7,64.7]},{"name":"Fixed ratio","values":[66.7,66.7,66.7,66.7,66.7]}]}

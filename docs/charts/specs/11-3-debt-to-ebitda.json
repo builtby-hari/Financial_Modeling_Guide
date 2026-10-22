@@ -1,0 +1,29 @@
+{
+ "type": "bar",
+ "title": "Debt to EBITDA After Close",
+ "subtitle": "Illustrative leverage path",
+ "source": "Module 11, Part 3, made-up numbers",
+ "fmt": {
+  "suffix": "x",
+  "decimals": 1
+ },
+ "categories": [
+  "Stub",
+  "Year 1",
+  "Year 2",
+  "Year 3",
+  "Year 4"
+ ],
+ "series": [
+  {
+   "name": "Debt to EBITDA",
+   "values": [
+    3.4,
+    2.9,
+    2.5,
+    2.1,
+    1.7
+   ]
+  }
+ ]
+}

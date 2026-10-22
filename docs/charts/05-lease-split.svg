@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="IFRS 16 Lease Expense Split">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">IFRS 16 Lease Expense Split</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Same total expense, new presentation</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Lease plus maintenance expense</text>
+<rect x="284.0" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="302.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Interest share</text>
+<rect x="424.8" y="78" width="12" height="12" rx="2" fill="#94a3b8"/>
+<text x="442.8" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Right-of-use depreciation</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0</text>
+<line x1="78" x2="732" y1="324.8" y2="324.8" stroke="#e2e8f0"/>
+<text x="70.0" y="328.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">25</text>
+<line x1="78" x2="732" y1="273.6" y2="273.6" stroke="#e2e8f0"/>
+<text x="70.0" y="277.6" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">50</text>
+<line x1="78" x2="732" y1="222.4" y2="222.4" stroke="#e2e8f0"/>
+<text x="70.0" y="226.4" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">75</text>
+<line x1="78" x2="732" y1="171.2" y2="171.2" stroke="#e2e8f0"/>
+<text x="70.0" y="175.2" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">100</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">125</text>
+<rect x="209.5" y="171.2" width="64.0" height="204.8" fill="#1f3a5f"/>
+<rect x="209.5" y="171.2" width="64.0" height="0.0" fill="#14b8a6"/>
+<rect x="209.5" y="171.2" width="64.0" height="0.0" fill="#94a3b8"/>
+<text x="241.5" y="166.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">100</text>
+<rect x="536.5" y="376.0" width="64.0" height="0.0" fill="#1f3a5f"/>
+<rect x="536.5" y="314.6" width="64.0" height="61.4" fill="#14b8a6"/>
+<rect x="536.5" y="171.2" width="64.0" height="143.4" fill="#94a3b8"/>
+<text x="568.5" y="166.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">100</text>
+<text x="241.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Before</text>
+<text x="568.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">After</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 05, made-up numbers</text>
+</svg>

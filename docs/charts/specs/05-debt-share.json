@@ -1,0 +1,29 @@
+{
+ "type": "bar",
+ "title": "Debt to Equity by Debt Share",
+ "subtitle": "Illustrative; the extreme-case limit is about 1.0x",
+ "source": "Module 05, made-up numbers",
+ "fmt": {
+  "suffix": "x",
+  "decimals": 1
+ },
+ "categories": [
+  "100% debt",
+  "75%",
+  "60%",
+  "50%",
+  "25%"
+ ],
+ "series": [
+  {
+   "name": "Debt to equity",
+   "values": [
+    2.0,
+    1.4,
+    1.0,
+    0.8,
+    0.4
+   ]
+  }
+ ]
+}

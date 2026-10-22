@@ -1,0 +1,28 @@
+{
+ "type": "waterfall",
+ "title": "Convertible Bond Interest Expense",
+ "subtitle": "Most of year 1 interest is non-cash",
+ "source": "Module 04, made-up numbers",
+ "fmt": {
+  "decimals": 1
+ },
+ "steps": [
+  {
+   "label": "Cash coupon",
+   "value": 10.0
+  },
+  {
+   "label": "Discount amortization",
+   "value": 47.6
+  },
+  {
+   "label": "Fee amortization",
+   "value": 2.0
+  },
+  {
+   "label": "Total interest expense",
+   "value": 59.6,
+   "total": true
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Returns: Company A vs Company B">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Returns: Company A vs Company B</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Company B earns more on every measure</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Company A</text>
+<rect x="132.8" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="150.8" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Company B</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0.0%</text>
+<line x1="78" x2="732" y1="312.0" y2="312.0" stroke="#e2e8f0"/>
+<text x="70.0" y="316.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">5.0%</text>
+<line x1="78" x2="732" y1="248.0" y2="248.0" stroke="#e2e8f0"/>
+<text x="70.0" y="252.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">10.0%</text>
+<line x1="78" x2="732" y1="184.0" y2="184.0" stroke="#e2e8f0"/>
+<text x="70.0" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">15.0%</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">20.0%</text>
+<rect x="132.0" y="172.5" width="54.0" height="203.5" rx="2" fill="#1f3a5f"/>
+<text x="159.0" y="167.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">15.9%</text>
+<rect x="188.0" y="135.4" width="54.0" height="240.6" rx="2" fill="#14b8a6"/>
+<text x="215.0" y="130.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">18.8%</text>
+<rect x="350.0" y="308.2" width="54.0" height="67.8" rx="2" fill="#1f3a5f"/>
+<text x="377.0" y="303.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">5.3%</text>
+<rect x="406.0" y="260.8" width="54.0" height="115.2" rx="2" fill="#14b8a6"/>
+<text x="433.0" y="255.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">9.0%</text>
+<rect x="568.0" y="239.0" width="54.0" height="137.0" rx="2" fill="#1f3a5f"/>
+<text x="595.0" y="234.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">10.7%</text>
+<rect x="624.0" y="210.9" width="54.0" height="165.1" rx="2" fill="#14b8a6"/>
+<text x="651.0" y="205.9" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">12.9%</text>
+<text x="187.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">ROE</text>
+<text x="405.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">ROA</text>
+<text x="623.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">ROIC</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 02, Part 2, made-up numbers</text>
+</svg>

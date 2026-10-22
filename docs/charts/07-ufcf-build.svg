@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="EBIT to Unlevered FCF">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">EBIT to Unlevered FCF</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Year 1, millions</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0.0</text>
+<line x1="78" x2="732" y1="282.7" y2="282.7" stroke="#e2e8f0"/>
+<text x="70.0" y="286.7" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">100.0</text>
+<line x1="78" x2="732" y1="189.3" y2="189.3" stroke="#e2e8f0"/>
+<text x="70.0" y="193.3" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">200.0</text>
+<line x1="78" x2="732" y1="96.0" y2="96.0" stroke="#e2e8f0"/>
+<text x="70.0" y="100.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">300.0</text>
+<rect x="93.9" y="142.7" width="61.7" height="233.3" rx="2" fill="#1f3a5f"/>
+<text x="124.7" y="137.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">250.0</text>
+<rect x="187.3" y="142.7" width="61.7" height="58.3" rx="2" fill="#c2410c"/>
+<text x="218.1" y="137.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-62.5</text>
+<line x1="155.5" x2="187.3" y1="142.7" y2="142.7" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="280.7" y="201.0" width="61.7" height="175.0" rx="2" fill="#1f3a5f"/>
+<text x="311.6" y="196.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">187.5</text>
+<line x1="249.0" x2="280.7" y1="201.0" y2="201.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="374.2" y="154.3" width="61.7" height="46.7" rx="2" fill="#14b8a6"/>
+<text x="405.0" y="149.3" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+50.0</text>
+<line x1="342.4" x2="374.2" y1="201.0" y2="201.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="467.6" y="154.3" width="61.7" height="18.7" rx="2" fill="#c2410c"/>
+<text x="498.4" y="149.3" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-20.0</text>
+<line x1="435.8" x2="467.6" y1="154.3" y2="154.3" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="561.0" y="173.0" width="61.7" height="74.7" rx="2" fill="#c2410c"/>
+<text x="591.9" y="168.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-80.0</text>
+<line x1="529.3" x2="561.0" y1="173.0" y2="173.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="654.5" y="247.7" width="61.7" height="128.3" rx="2" fill="#1f3a5f"/>
+<text x="685.3" y="242.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">137.5</text>
+<line x1="622.7" x2="654.5" y1="247.7" y2="247.7" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="124.7" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">EBIT</text>
+<text x="218.1" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Operating taxes</text>
+<text x="311.6" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">NOPAT</text>
+<text x="405.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">D&amp;A</text>
+<text x="498.4" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Working capital</text>
+<text x="591.9" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">CapEx</text>
+<text x="685.3" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Unlevered FCF</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 07, made-up numbers</text>
+</svg>

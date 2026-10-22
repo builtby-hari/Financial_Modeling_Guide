@@ -1,0 +1,34 @@
+{
+ "type": "bar",
+ "title": "How Spinco Funds Its Cash Deficits",
+ "subtitle": "Revolver draw (repay) and equity issued by year",
+ "source": "Module 11, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "categories": [
+  "Year 1",
+  "Year 2",
+  "Year 3"
+ ],
+ "series": [
+  {
+   "name": "Revolver draw / (repay)",
+   "values": [
+    -10,
+    65,
+    35
+   ]
+  },
+  {
+   "name": "Equity issued",
+   "values": [
+    0,
+    0,
+    135
+   ]
+  }
+ ]
+}

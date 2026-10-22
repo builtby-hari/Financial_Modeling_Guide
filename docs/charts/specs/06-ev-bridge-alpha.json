@@ -1,0 +1,33 @@
+{
+ "type": "waterfall",
+ "title": "Alpha Equity Value to EV",
+ "subtitle": "Add claims, subtract cash and investments",
+ "source": "Module 06, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Equity value",
+   "value": 10000,
+   "total": true
+  },
+  {
+   "label": "Debt",
+   "value": 2000
+  },
+  {
+   "label": "Preferred",
+   "value": 300
+  },
+  {
+   "label": "Cash and investments",
+   "value": -1800
+  },
+  {
+   "label": "Enterprise value",
+   "value": 10500,
+   "total": true
+  }
+ ]
+}

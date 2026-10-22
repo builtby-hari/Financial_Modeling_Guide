@@ -1,0 +1,2 @@
+{"type":"bar","title":"EBITDA Slips as Costs Rise","subtitle":"Margin falls from 51.0% to 49.0% over three years","source": "Module 13, Part 2, made-up numbers",
+"fmt":{"prefix":"$","suffix":"M","decimals":1},"categories":["Year 1","Year 2","Year 3"],"series":[{"name":"EBITDA","values":[255.0,248.0,240.1]}]}

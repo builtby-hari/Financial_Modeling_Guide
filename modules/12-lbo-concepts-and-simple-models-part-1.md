@@ -85,6 +85,10 @@ flowchart TD
 | MOM | about 1.6x | about 2.7x |
 | IRR | about 11.5% | about 23% |
 
+![IRR: All Cash vs Leveraged Purchase](../docs/charts/12-1-irr-cash-vs-lbo.svg)
+
+*Borrowing roughly doubles the IRR on the same property and the same rent.*
+
 The leveraged case gets back less total money, but it put in a quarter of the cash, so the return on the smaller base is much higher.
 
 **Leverage cuts both ways.** If the exit price falls to 600 instead of 960, the all-cash case still returns its money, but the levered case gets only 600 minus 450 of debt, which is 150, so the MOM falls to about 0.9x and the IRR turns slightly negative. A small drop in value wipes out a large share of the equity.
@@ -296,6 +300,10 @@ Debt paydown and cash can also be checked directly: (ending cash - starting cash
 | Multiple expansion (10 - 10) x 58.6 | 0.0 | 0% |
 | Debt paydown and cash | 95.7 | 34% |
 | **Total gain (531.7 - 250)** | **281.7** | **100%** |
+
+![Where the Equity Gain Comes From](../docs/charts/12-1-gain-attribution.svg)
+
+*Most of the gain here comes from EBITDA growth, with debt paydown second and no multiple expansion.*
 
 Debt and cash check: (5.9 - 10.0) + (160.0 - 60.2) = 95.7. The bridge ties.
 
@@ -554,6 +562,10 @@ A quick mental version: 3,050 - 450 = 2,600, divided by 900 is just under 3x. A 
 | Multiple expansion (10 - 9) x 305 | 305 | 18% |
 | Debt paydown | 451 | 27% |
 
+![Paper LBO Gain by Source](../docs/charts/12-1-paper-lbo-gain.svg)
+
+*EBITDA growth is the largest source of the gain, ahead of multiple expansion and debt paydown.*
+
 Check: 945 + 305 + 451 = 1,701.
 
 **Sensitivity to the exit multiple.** This is the important point of the case.
@@ -729,6 +741,10 @@ Note the Year 5 column. The scheduled mandatory amount would be 45, but only 28.
 | Cash interest (senior) | | 9.0 | 7.7 | 6.0 | 4.0 | 1.7 |
 | Non-cash interest (note + loan) | | 10.5 | 11.6 | 12.8 | 14.2 | 15.7 |
 
+![Debt Balances by Tranche](../docs/charts/12-1-debt-tranches.svg)
+
+*Senior debt is paid off by year 5 while the seller note and shareholder loan keep growing.*
+
 **Things to say out loud in the test.**
 
 - The senior interest shrinks as principal is repaid, while the accruing tranches grow. Total interest falls only slightly, but the cash portion falls much faster.
@@ -856,6 +872,10 @@ At 8x, exit equity is 576.0 and only the 15% tier applies (about 8.7 of earn-out
 | 8x | 1.9x / 18% | 2.2x / 17% |
 | 9x (entry multiple) | 2.2x / 21% | 2.4x / 19% |
 | 10x | 2.4x / 25% | 2.7x / 22% |
+
+![IRR by Exit Multiple and Exit Year](../docs/charts/12-1-exit-irr-grid.svg)
+
+*A higher exit multiple lifts the IRR, and an earlier exit at the same multiple gives a slightly higher IRR.*
 
 **Question 1. Returns at different exit multiples and years, and the deal call.** With a standard hurdle of about 20%, the Year 5 base case at 9x is just under the line. The 8x outcomes fail. Only a 10x exit, or the Year 4 exit at 9x, clears it.
 

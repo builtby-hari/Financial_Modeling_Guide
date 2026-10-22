@@ -3,12 +3,28 @@
   <img alt="Financial Modeling Guide" src="docs/banner.svg" width="100%">
 </picture>
 
-![Modules](https://img.shields.io/badge/modules-24-1f3a5f) ![Words](https://img.shields.io/badge/words-274K-14b8a6) ![Diagrams](https://img.shields.io/badge/diagrams-150%2B-1f3a5f) ![Format](https://img.shields.io/badge/format-Markdown%20%2B%20Obsidian-14b8a6) ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-1f3a5f)
+![Modules](https://img.shields.io/badge/modules-24-1f3a5f) ![Words](https://img.shields.io/badge/words-274K-14b8a6) ![Diagrams](https://img.shields.io/badge/diagrams-150%2B-1f3a5f) ![Charts](https://img.shields.io/badge/charts-110-14b8a6) ![Format](https://img.shields.io/badge/format-Markdown%20%2B%20Obsidian-14b8a6) ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-1f3a5f)
 
-A complete, self-study guide to corporate finance modeling, from accounting basics to leveraged buyouts. Each module is written as clear notes with worked examples, Mermaid diagrams, interview questions and cheat sheets, so you can read it on GitHub or open the whole folder in Obsidian.
+A complete, self-study guide to corporate finance modeling, from accounting basics to leveraged buyouts. Each module is written as clear notes with worked examples, charts, Mermaid diagrams, interview questions and cheat sheets, so you can read it on GitHub or open the whole folder in Obsidian.
+
+## A Look Inside
+
+<table>
+<tr>
+<td width="50%"><a href="modules/07-valuation-and-dcf-analysis.md"><img src="docs/charts/07-football-field.svg" alt="Value per Share by Method"></a></td>
+<td width="50%"><a href="modules/07-valuation-and-dcf-analysis.md"><img src="docs/charts/07-sensitivity-price.svg" alt="Implied Share Price Sensitivity"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="modules/06-equity-value-and-enterprise-value.md"><img src="docs/charts/06-ev-bridge-alpha.svg" alt="Equity Value to Enterprise Value"></a></td>
+<td width="50%"><a href="modules/12-lbo-concepts-and-simple-models-part-1.md"><img src="docs/charts/12-1-debt-tranches.svg" alt="Debt Balances by Tranche"></a></td>
+</tr>
+</table>
+
+Every chart is drawn from the worked example next to it, so the numbers in the picture match the numbers in the text.
 
 ## Table of Contents
 
+- [A Look Inside](#a-look-inside)
 - [Learning Path](#learning-path)
 - [Curriculum](#curriculum)
 - [What's in Each Module](#whats-in-each-module)
@@ -67,7 +83,7 @@ Every module follows the same structure, so you always know where to find things
 - **Overview**: what the module covers, in a few sentences.
 - **Module Map**: a Mermaid diagram showing how the lessons connect.
 - **Lessons**: the core material, with worked examples and step-by-step logic.
-- **Diagrams and Charts**: Mermaid flowcharts and tables that explain the mechanics visually.
+- **Diagrams and Charts**: Mermaid flowcharts, plus data charts (bridges, sensitivity grids, football fields, debt schedules) built from the worked examples.
 - **Excel Model Walkthrough**: how the same logic is built in a spreadsheet.
 - **Interview Questions**: collapsible questions, so you can answer from memory before you open the answer.
 - **Career Angle**: how the topic shows up in banking, corporate development, private equity and equity research.
@@ -107,7 +123,10 @@ financial-modeling-guide/
 ├── .gitignore
 ├── docs/
 │   ├── banner.svg
-│   └── banner-dark.svg
+│   ├── banner-dark.svg
+│   └── charts/            # 110 SVG charts, plus specs/ with the numbers behind each one
+├── tools/
+│   └── charts.py          # renders docs/charts/specs/*.json to SVG (Python standard library)
 └── modules/
     ├── 01-modeling-overview-and-core-concepts.md
     ├── 02-accounting-concepts-part-1.md

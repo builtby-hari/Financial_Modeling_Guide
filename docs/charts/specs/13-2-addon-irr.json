@@ -1,0 +1,39 @@
+{
+ "type": "heatmap",
+ "title": "IRR by Add-on Price and Program Size",
+ "subtitle": "IRR rises with cheaper add-ons and a bigger annual program",
+ "source": "Module 13, Part 2, made-up numbers",
+ "fmt": {
+  "suffix": "%",
+  "decimals": 0
+ },
+ "rows": [
+  "5x",
+  "8x",
+  "12x"
+ ],
+ "cols": [
+  "$75M a year",
+  "$100M a year",
+  "$150M a year"
+ ],
+ "row_title": "Avg add-on multiple",
+ "col_title": "Annual add-on spend",
+ "values": [
+  [
+   17,
+   20,
+   24
+  ],
+  [
+   14,
+   17,
+   21
+  ],
+  [
+   10,
+   13,
+   17
+  ]
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "type": "bar",
+ "title": "Revenue Through a Generic Cliff",
+ "subtitle": "Revenue by year, $ millions",
+ "source": "Module 08, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 1
+ },
+ "categories": [
+  "Y0 actual",
+  "Y1 (+10% price)",
+  "Y2 (generics)"
+ ],
+ "series": [
+  {
+   "name": "Revenue",
+   "values": [
+    1200.0,
+    1105.5,
+    88.9
+   ]
+  }
+ ]
+}

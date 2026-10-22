@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Fixed vs Floating Ratio Equity Value">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Fixed vs Floating Ratio Equity Value</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Purchase equity value by buyer share price</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Fixed ratio</text>
+<rect x="147.2" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="165.2" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Floating ratio with collar</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$1,400M</text>
+<line x1="78" x2="732" y1="333.3" y2="333.3" stroke="#e2e8f0"/>
+<text x="70.0" y="337.3" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$1,600M</text>
+<line x1="78" x2="732" y1="290.7" y2="290.7" stroke="#e2e8f0"/>
+<text x="70.0" y="294.7" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$1,800M</text>
+<line x1="78" x2="732" y1="248.0" y2="248.0" stroke="#e2e8f0"/>
+<text x="70.0" y="252.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$2,000M</text>
+<line x1="78" x2="732" y1="205.3" y2="205.3" stroke="#e2e8f0"/>
+<text x="70.0" y="209.3" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$2,200M</text>
+<line x1="78" x2="732" y1="162.7" y2="162.7" stroke="#e2e8f0"/>
+<text x="70.0" y="166.7" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$2,400M</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$2,600M</text>
+<polyline fill="none" stroke="#1f3a5f" stroke-width="2.5" points="78.0,333.3 296.0,248.0 514.0,187.0 732.0,162.7"/>
+<circle cx="78.0" cy="333.3" r="3.5" fill="#1f3a5f"/>
+<circle cx="296.0" cy="248.0" r="3.5" fill="#1f3a5f"/>
+<circle cx="514.0" cy="187.0" r="3.5" fill="#1f3a5f"/>
+<circle cx="732.0" cy="162.7" r="3.5" fill="#1f3a5f"/>
+<polyline fill="none" stroke="#14b8a6" stroke-width="2.5" points="78.0,290.7 296.0,248.0 514.0,248.0 732.0,226.7"/>
+<circle cx="78.0" cy="290.7" r="3.5" fill="#14b8a6"/>
+<circle cx="296.0" cy="248.0" r="3.5" fill="#14b8a6"/>
+<circle cx="514.0" cy="248.0" r="3.5" fill="#14b8a6"/>
+<circle cx="732.0" cy="226.7" r="3.5" fill="#14b8a6"/>
+<text x="78.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">20.00</text>
+<text x="296.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">25.00</text>
+<text x="514.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">28.57</text>
+<text x="732.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">30.00</text>
+<text x="405.0" y="416.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="middle" font-weight="normal">Buyer share price ($)</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 11, Part 1, made-up numbers</text>
+</svg>

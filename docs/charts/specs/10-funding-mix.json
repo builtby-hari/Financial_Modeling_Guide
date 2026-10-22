@@ -1,0 +1,26 @@
+{
+ "type": "bar",
+ "title": "Funding Waterfall for the Purchase",
+ "subtitle": "Purchase equity value is 625, $ millions",
+ "source": "Module 10, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "categories": [
+  "Cash",
+  "Debt",
+  "Stock"
+ ],
+ "series": [
+  {
+   "name": "Amount used",
+   "values": [
+    80,
+    250,
+    295
+   ]
+  }
+ ]
+}

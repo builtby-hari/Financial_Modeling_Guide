@@ -133,6 +133,10 @@ Worked example (made-up numbers, in millions):
 | CapEx | (80) |
 | Unlevered FCF | 137.5 |
 
+
+![EBIT to Unlevered Free Cash Flow](../docs/charts/07-ufcf-build.svg)
+
+*Taxes and capex take the largest bites between EBIT and the 137.5 of unlevered FCF.*
 > [!WARNING]
 > Common mistakes here: using net income as the starting point (that bakes in interest), using the reported tax expense (it reflects the interest tax shield), and adding back stock-based compensation as if it were free. A good sanity check is that UFCF should track EBITDA minus taxes minus reinvestment, and if it does not, a line is probably in the wrong place. Interviewers often ask why interest is excluded: because UFCF is paid to all capital providers before anyone is paid interest, and the interest effect is captured in WACC instead.
 
@@ -457,6 +461,10 @@ Worked example (made-up numbers, with a 9 percent WACC, 1 percent growth, 10 yea
 
 The implied terminal multiple is a cross-check, not an input, in the perpetuity method.
 
+![Where Enterprise Value Comes From](../docs/charts/07-ev-split.svg)
+
+*More than half of the 9,000 enterprise value comes from the terminal value.*
+
 > [!WARNING]
 > Common mistakes: discounting the terminal value by the forecast length minus one, using a growth rate close to WACC, and quoting a single terminal multiple without a range. The implied perpetual growth from a multiple is harder to back out algebraically, so many models skip it. The honest way to present the work is a range of terminal values under each method. Interviewers also ask what happens to the terminal value if WACC drops by one point: it rises sharply, because the denominator shrinks, which is why the terminal value dominates the answer in low-rate environments.
 
@@ -482,6 +490,10 @@ Worked example (made-up numbers, implied share price in dollars):
 | 9.0% | 43 | 47 | 52 |
 
 Read the grid: with a current share price of 60, the stock screens as undervalued only in the top-right corner (low WACC, high growth) and looks roughly fairly valued at the middle assumptions.
+
+![Implied Share Price Sensitivity](../docs/charts/07-sensitivity-price.svg)
+
+*Only the top-right corner clears the current price of 60, and the base case sits well below it.*
 
 > [!WARNING]
 > Common mistakes: linking the sensitivity axis to the live model, which breaks the data table, and making the grid too wide so every outcome looks possible. Another trap is holding the terminal growth above WACC in one corner of the grid, which gives nonsense values. Interview tip: the answer to "is it cheap or expensive?" should cite a range and the drivers that move the range the most, not just the base case.
@@ -576,6 +588,10 @@ Worked example (made-up numbers, share price in dollars):
 | DCF (price versus margin) | 30 | 45 | 56 | 68 | 90 |
 
 Current price is 62. The medians sit near or below the price, so the stock looks modestly rich on most methods.
+
+![Value per Share by Method](../docs/charts/07-football-field.svg)
+
+*The current price of 62 sits inside every range, so no single method settles the question.*
 
 > [!TIP]
 > Real-world context: the football field is the standard way to show this table, and it is the main bridge from modeling to a client conversation. Choose the DCF sensitivity axes with the audience in mind. A board understands steel price and margin better than WACC, and that is a deliberate communication choice, not just a convenience. Interview tip: a summary should always state its assumptions next to each range, and it should show where the current price sits within each range.
@@ -734,6 +750,10 @@ xychart-beta
 ```
 
 The curve bends up as growth rises, and it gets steeper as WACC approaches growth. A small change in the growth input can move the answer a lot when the spread is narrow.
+
+![Terminal Value Versus Terminal Growth](../docs/charts/07-terminal-growth.svg)
+
+*Each extra half point of growth adds more terminal value than the one before it.*
 
 **Where the enterprise value comes from (illustrative split)**
 

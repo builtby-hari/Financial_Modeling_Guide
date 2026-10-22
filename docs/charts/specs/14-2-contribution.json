@@ -1,0 +1,2 @@
+{"type":"bar","title":"Relative Contribution by Metric","subtitle":"Target versus partner share of the combined company","source":"Module 14, Part 2, made-up numbers","fmt":{"suffix":"%","decimals":0},
+"categories":["EBITDA","Net income","Users","Revenue"],"series":[{"name":"Target","values":[75,80,60,45]},{"name":"Partner","values":[25,20,40,55]}]}

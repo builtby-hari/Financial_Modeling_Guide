@@ -197,6 +197,10 @@ Worked example with made-up numbers (all figures in millions):
 | Debt used | MIN(2,562.5 - 300, 1,150) | 1,150 |
 | Stock used | 2,562.5 - 300 - 1,150 | 1,112.5 |
 
+![Funding Mix for the Stake Purchase](../docs/charts/11-3-stake-funding.svg)
+
+*Cash is small, debt is capped by capacity, and stock fills the remaining gap.*
+
 - **Cost of each funding source:** cash has a foregone interest rate (a small number, close to what the Acquirer earns on cash). New debt equals the Acquirer's current borrowing cost plus a premium (the case used 100 basis points). Stock's cost is the earnings yield: the first full-year net income divided by the Acquirer's current equity value.
 - **Weighted average cost of the deal:** each source's after-tax cost, weighted by its share of the purchase value. Only debt gets an interest tax shield, so its after-tax cost is the pre-tax rate times (1 minus the tax rate). Cash and stock use their own cost inputs and are handled the same way in the formula.
 - **Target yield:** the Target's net income to parent divided by the equity value. The numerator and denominator must use the same ownership basis. If you divide 100% of income by 100% of value, that is consistent. If you divide 100% of income by a 20.5% value, it is not.
@@ -304,6 +308,10 @@ Worked example of the repayment schedule (made-up numbers):
 | Year 1 | 933 | 10% x 1,000 | 100 | 833 |
 | Year 2 | 833 | 10% x 1,000 | 100 | 733 |
 | Final year (only 80 left) | 80 | 10% x 1,000 | 80 (capped) | 0 |
+
+![Scheduled Principal Repayment](../docs/charts/11-3-debt-repayment.svg)
+
+*The stub payment is scaled down and the final payment is capped at the balance left.*
 
 > [!TIP]
 > **Why the cap matters:** if you let a repayment exceed the balance, you create negative debt. A MIN function (the scheduled amount or the balance left, whichever is smaller) prevents that. This is the same pattern as the capped D&A on the write-ups.
@@ -416,6 +424,10 @@ xychart-beta
     line [-3.0, -1.6, -0.4, 0.6, 1.4, 1.9, 2.1]
 ```
 
+![EPS Accretion vs Extra Stake](../docs/charts/11-3-accretion-stake.svg)
+
+*Accretion turns positive once the extra stake passes roughly 40 to 50 percent, then flattens.*
+
 ```mermaid
 xychart-beta
     title "Illustrative debt to EBITDA after close (made-up)"
@@ -423,6 +435,10 @@ xychart-beta
     y-axis "Debt to EBITDA" 0 --> 4
     bar [3.4, 2.9, 2.5, 2.1, 1.7]
 ```
+
+![Debt to EBITDA After Close](../docs/charts/11-3-debt-to-ebitda.svg)
+
+*Leverage falls quickly because the Target's large EBITDA sits in the denominator.*
 
 ## Excel Model Walkthrough
 

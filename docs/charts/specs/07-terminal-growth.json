@@ -1,0 +1,32 @@
+{
+ "type": "line",
+ "title": "Terminal Value vs Terminal Growth",
+ "subtitle": "WACC of 8%, final-year UFCF of 700, illustrative",
+ "source": "Module 07, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "x": [
+  "0%",
+  "0.5%",
+  "1%",
+  "1.5%",
+  "2%",
+  "2.5%",
+  "3%"
+ ],
+ "series": [
+  {
+   "name": "Terminal value",
+   "values": [
+    8750,
+    9380,
+    10100,
+    10931,
+    11900,
+    13045,
+    14420
+   ]
+  }
+ ]
+}

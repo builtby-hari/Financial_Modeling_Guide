@@ -1,0 +1,3 @@
+{"type":"waterfall","title":"Sponsor Proceeds in the Loss Case","subtitle":"Total proceeds of 910 fall short of the 1,000 invested","source": "Module 13, Part 1, made-up numbers",
+"fmt":{"suffix":"","decimals":0},
+"steps":[{"label":"Exit EV","value":1920,"total":true},{"label":"Cash","value":40},{"label":"Debt repaid","value":-1200},{"label":"Exit equity","value":760,"total":true},{"label":"Year 2 dividend","value":150},{"label":"Total proceeds","value":910,"total":true}]}

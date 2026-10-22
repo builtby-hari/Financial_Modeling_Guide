@@ -87,6 +87,10 @@ Worked example with made-up numbers:
 
 The lease liability becomes a debt-like line. The asset and liability both go up over time, and the model is set up so that the cash flow effect of the reclassification nets to zero.
 
+![IFRS 16 Lease Expense Split](../docs/charts/05-lease-split.svg)
+
+*The total expense stays at 100, but 30 of it now shows up as interest.*
+
 **Cash flow method, in short.**
 
 - Start from net income, then add back non-cash items and working capital changes, as in most US-style models.
@@ -327,6 +331,10 @@ Half-year seasonality matters a lot. Deferred revenue is high in the first half 
 
 Made-up example: 100 million seats flown and a requirement of 10 per seat means 1,000 million of minimum liquidity. If cash is 600 and the undrawn revolver is 500, actual liquidity is 1,100, which clears the bar with 100 to spare. If the revolver is fully drawn, undrawn capacity is zero, and actual liquidity is only 600, which is 400 short. That shortfall is the funding need.
 
+![Liquidity Against a Minimum](../docs/charts/05-liquidity-test.svg)
+
+*Drawing the revolver in full removes 500 of liquidity and leaves cash of 600 against a minimum of 1,000.*
+
 **Step-by-step logic.**
 
 1. ASK per seat = ASK divided by seats flown. Seats flown can be backed out of ASK when the per-seat trip length is given: seats flown = ASK divided by ASK per seat. Trip length per seat is trending up because aircraft fly more often and routes are longer.
@@ -557,6 +565,10 @@ xychart-beta
 
 Read the three lines as Base, Downside and Extreme downside. The base case never comes close to its limit. The downside case crosses its limit in the last year. The extreme case breaks the limit in the last two years. The numbers are illustrative, rounded from the lesson's results.
 
+![Leverage by Scenario](../docs/charts/05-leverage-path.svg)
+
+*The extreme downside line climbs fastest, which is why leverage looked like the first constraint to bind.*
+
 **4. Illustrative debt to equity by funding mix (shape only).**
 
 ```mermaid
@@ -568,6 +580,10 @@ xychart-beta
 ```
 
 Illustrative only. It shows the direction the analysis describes: each step toward equity lowers debt to equity, and the extreme-case limit is about 1.0 times, so a mix near 60 percent debt sits right at the edge.
+
+![Debt to Equity by Debt Share](../docs/charts/05-debt-share.svg)
+
+*Each step toward equity lowers debt to equity, and a 60 percent debt mix sits right at the 1.0x limit.*
 
 **5. Sequence of a scenario run.**
 

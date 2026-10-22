@@ -1,0 +1,3 @@
+{"type":"waterfall","title":"Where the Equity Gain Comes From","subtitle":"Growth and deleveraging outweigh the lower exit multiple","source": "Module 12, Part 2, made-up numbers",
+"fmt":{"prefix":"$","suffix":"M","decimals":1},
+"steps":[{"label":"EBITDA growth","value":165.0},{"label":"Multiple contraction","value":-75.0},{"label":"Debt paydown and other","value":39.8},{"label":"Equity gain","value":129.8,"total":true}]}

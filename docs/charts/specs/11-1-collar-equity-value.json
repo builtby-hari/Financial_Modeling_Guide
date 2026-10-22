@@ -1,0 +1,30 @@
+{
+ "type": "bar",
+ "title": "Equity Value Under a Fixed Ratio With a Collar",
+ "subtitle": "Purchase equity value by acquirer share price, ratio 0.80x, floor $25, cap $32",
+ "source": "Module 11, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "categories": [
+  "$20",
+  "$25",
+  "$28",
+  "$32",
+  "$35"
+ ],
+ "series": [
+  {
+   "name": "Equity value",
+   "values": [
+    2000,
+    2000,
+    2240,
+    2560,
+    2560
+   ]
+  }
+ ]
+}

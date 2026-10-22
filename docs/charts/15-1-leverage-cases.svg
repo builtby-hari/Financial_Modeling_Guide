@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Debt to EBITDA by Case">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Debt to EBITDA by Case</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Only the downside case crosses the 6x warning level</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Downside</text>
+<rect x="125.6" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="143.6" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Base</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0.0x</text>
+<line x1="78" x2="732" y1="324.8" y2="324.8" stroke="#e2e8f0"/>
+<text x="70.0" y="328.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">2.0x</text>
+<line x1="78" x2="732" y1="273.6" y2="273.6" stroke="#e2e8f0"/>
+<text x="70.0" y="277.6" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">4.0x</text>
+<line x1="78" x2="732" y1="222.4" y2="222.4" stroke="#e2e8f0"/>
+<text x="70.0" y="226.4" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">6.0x</text>
+<line x1="78" x2="732" y1="171.2" y2="171.2" stroke="#e2e8f0"/>
+<text x="70.0" y="175.2" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">8.0x</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">10.0x</text>
+<polyline fill="none" stroke="#1f3a5f" stroke-width="2.5" points="78.0,312.0 241.5,286.4 405.0,150.7 568.5,248.0 732.0,283.8"/>
+<circle cx="78.0" cy="312.0" r="3.5" fill="#1f3a5f"/>
+<circle cx="241.5" cy="286.4" r="3.5" fill="#1f3a5f"/>
+<circle cx="405.0" cy="150.7" r="3.5" fill="#1f3a5f"/>
+<circle cx="568.5" cy="248.0" r="3.5" fill="#1f3a5f"/>
+<circle cx="732.0" cy="283.8" r="3.5" fill="#1f3a5f"/>
+<polyline fill="none" stroke="#14b8a6" stroke-width="2.5" points="78.0,312.0 241.5,301.8 405.0,278.7 568.5,299.2 732.0,309.4"/>
+<circle cx="78.0" cy="312.0" r="3.5" fill="#14b8a6"/>
+<circle cx="241.5" cy="301.8" r="3.5" fill="#14b8a6"/>
+<circle cx="405.0" cy="278.7" r="3.5" fill="#14b8a6"/>
+<circle cx="568.5" cy="299.2" r="3.5" fill="#14b8a6"/>
+<circle cx="732.0" cy="309.4" r="3.5" fill="#14b8a6"/>
+<text x="78.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Y1</text>
+<text x="241.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Y2</text>
+<text x="405.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Y3</text>
+<text x="568.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Y4</text>
+<text x="732.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Y5</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 15, Part 1, made-up numbers</text>
+</svg>

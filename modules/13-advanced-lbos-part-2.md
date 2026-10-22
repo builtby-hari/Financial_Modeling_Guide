@@ -209,6 +209,10 @@ Divide each fee by LTM EBITDA to see the multiple it adds. Fees are a use of fun
 | EV / LTM EBITDA | 12.0x |
 | Excess cash used | $60M (cash $80M less minimum $20M) |
 
+![Equity Value to Purchase EV](../docs/charts/13-2-ev-bridge.svg)
+
+*Adding debt and subtracting cash turns the 1,300 equity value into an 1,800 enterprise value.*
+
 **Common mistakes**
 
 - Using the sum of all option shares without the treasury stock method.
@@ -261,6 +265,10 @@ Divide each fee by LTM EBITDA to see the multiple it adds. Fees are a use of fun
 | Excess cash | n/a | $60M | 4% |
 | Sponsor equity (plug) | n/a | $560M | 41% |
 | Total sources | | $1,370M | 100% |
+
+![Where the Money Comes From](../docs/charts/13-2-sources.svg)
+
+*Sponsor equity is the largest single source at 560.*
 
 With LTM EBITDA of $150M, term loan plus notes is 5.0x, inside the 5x to 6x range. Equity is 41% of sources, which is a normal range for a deal in this market.
 
@@ -371,6 +379,10 @@ EBITDA = operating income, plus depreciation, plus amortization of existing inta
 | EBITDA margin | 51.0% | 50.1% | 49.0% |
 | Depreciation and amortization | $70.0M | $68.0M | $65.0M |
 | Operating income (EBIT) | $185.0M | $180.0M | $175.1M |
+
+![EBITDA Slips as Costs Rise](../docs/charts/13-2-ebitda-fade.svg)
+
+*The rising cost of revenue ratio pulls EBITDA down even though revenue falls only slowly.*
 
 Here EBITDA is revenue less the cash costs. D&A sits below it, so it is subtracted to reach EBIT and is only added back when you rebuild EBITDA from operating income. Note the margin falls slowly because the cost of revenue ratio rises each year. Check that the margin lands in the range your history supports before moving on.
 
@@ -665,6 +677,10 @@ The cash flow row is: initial equity (negative, in year 0), then the proceeds ro
 | MOIC | 2.9x |
 | IRR (5 years) | about 24% |
 
+![Base Case Exit Equity](../docs/charts/13-2-exit-bridge.svg)
+
+*Net debt takes about 40 percent of the exit value, and the remaining 1,610 is the sponsor's equity.*
+
 Check: 2.9x over 5 years is (2.9)^(1/5) - 1, about 24%. That agrees with the IRR.
 
 **Common mistakes**
@@ -705,7 +721,11 @@ Set each axis from evidence, not from a formula. Exit multiples came from the ea
 | 8x | 14% | 17% | 21% |
 | 12x | 10% | 13% | 17% |
 
-Reading across: at a fixed price, bigger programs lift IRR. Reading down: higher prices cut IRR. A 20% hurdle is met only in the cheap, large-program corner, which tells you where the deal is fragile.
+![IRR by Add-on Price and Program Size](../docs/charts/13-2-addon-irr.svg)
+
+*Cheaper add-ons and bigger programs both lift IRR, so the 20% hurdle is fragile.*
+
+Reading across: at a fixed price, bigger programs lift IRR. Reading down: higher prices cut IRR. A 20% hurdle is met only toward the cheap, large-program corner (5x with $100M or more a year, or 8x at $150M), which tells you where the deal is fragile.
 
 **Common mistakes**
 

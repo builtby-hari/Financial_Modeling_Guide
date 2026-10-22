@@ -1,0 +1,3 @@
+{"type":"bar","title":"COGS and Gross Profit by Inventory Method","subtitle":"Rising costs, 20 units sold","source":"Module 03, made-up numbers",
+"fmt":{"decimals":0},"categories":["FIFO","Moving average","LIFO"],
+"series":[{"name":"COGS","values":[220,260,300]},{"name":"Gross profit","values":[380,340,300]}]}

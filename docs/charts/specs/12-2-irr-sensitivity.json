@@ -1,0 +1,3 @@
+{"type":"heatmap","title":"Sponsor IRR by Scenario and Exit Multiple","subtitle":"Year 5 exit, base case outlined","source": "Module 12, Part 2, made-up numbers",
+"fmt":{"suffix":"%","decimals":0},"rows":["Upside","Base","Downside"],"cols":["6.5x","7.5x","8.5x"],"row_title":"Scenario","col_title":"Exit multiple",
+"values":[[24,30,35],[14,20,25],[-6,0,5]],"base":[1,1]}

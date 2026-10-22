@@ -260,6 +260,10 @@ The point is the two levers. Headcount grows with revenue divided by productivit
 
 Change in revenue is 200, so working capital contributes 18% of the change in revenue to cash flow. A subscription company that bills in advance can show a number like this for a long time. The thing to ask is whether the number is driven by a real business pattern, not whether each line is exactly right.
 
+![Working Capital Cash Impact](../docs/charts/04-working-capital.svg)
+
+*Deferred revenue growth more than covers the receivables build, so working capital adds 36 of cash.*
+
 > [!TIP]
 > **Going further.** The cash flow effect of deferred revenue is only "free" as long as the company keeps growing. If growth stops, deferred revenue stops rising and the cash benefit reverses. Analysts often run a downside case where billings fall and check how much cash the working capital reversal takes away. Also, in a real filing, operating lease liabilities, capitalized commissions and contract assets can be large. Missing them is a common mistake when you move from a case model to a real company. Treat the yield on cash as a check: if a company earns almost nothing on a big cash pile, asking why is a good interview question.
 
@@ -282,6 +286,10 @@ Change in revenue is 200, so working capital contributes 18% of the change in re
 | 3 | 13.7 | 80% | 15.0% | 2.06 | 10.0 |
 
 Acquired expenses in year 2 are 7.6 minus 0.95, or about 6.65. Notice that the amortization (10 a year) is much larger than the acquired EBIT. On a GAAP basis, the deal looks like a loss even if the business is working. This is why analysts look at EBITA or adjusted EBITDA when judging acquisitions.
+
+![Acquired EBIT Versus Intangible Amortization](../docs/charts/04-acquisition-drag.svg)
+
+*The 10 a year of amortization dwarfs the acquired EBIT in every year, which is why GAAP makes the deal look like a loss.*
 
 > [!TIP]
 > **Going further.** Real acquisition models usually add integration costs, synergies (revenue and cost), deal fees, and the purchase of cash at close. They also check whether the buyer is paying more than the target could reasonably earn in its own right, which is the core of "will the math work?" A useful interview habit is to state the implied payback period: at a 25x revenue multiple and a 10 percent margin, it takes decades to earn back the price from the target alone. The returns must come from growth, cross-selling and a higher exit multiple. Without those, acquisitions destroy value even when they look good on revenue.
@@ -311,6 +319,10 @@ Acquired expenses in year 2 are 7.6 minus 0.95, or about 6.65. Notice that the a
 
 Notice that the non-cash piece is most of the expense. Anyone who reads only the income statement would overestimate the company's cash interest burden. That is why the cash flow statement adds it back.
 
+![Convertible Bond Interest Expense](../docs/charts/04-convert-interest.svg)
+
+*Only 10 of the 59.6 total interest is paid in cash, and the rest is non-cash amortization.*
+
 > [!TIP]
 > **Going further.** The accounting treatment of convertibles changed in recent years, and under the newer rules many issuers no longer split out an equity component for convertibles, so the discount amortization disappears. Check which rule applies to the filing you are modeling. Also, an in-the-money convertible can be converted into shares, which dilutes existing shareholders, so the "debt" you see on the balance sheet may not stay as debt. In a real deal model you would test the conversion price against your exit value and show the dilution case. Interviewers like it when you raise that issue without being asked.
 
@@ -333,6 +345,10 @@ Notice that the non-cash piece is most of the expense. Anyone who reads only the
 | 4 | 60 | 0 | 60 | 0 | 90 | 7.5 |
 
 In years 1 and 2, the NOL shelters all taxable income, so cash tax is zero. In year 3, 40 of taxable income is still exposed after NOLs, giving 10 of cash tax. In year 4 the NOL runs out, and the remaining 30 of taxable income is taxed at 25%, which gives 7.5 of cash tax. Suppose book tax in year 4 is 22.5 on the income statement. Cash tax minus book tax is 7.5 minus 22.5, or negative 15. The company paid 15 less cash than its book tax charge, so the cash flow statement adds 15 back as a non-cash item.
+
+![Taxable Income Versus NOL Used](../docs/charts/04-nol-shield.svg)
+
+*Taxable income grows faster than the NOL can absorb it, so cash tax only appears once the balance is gone.*
 
 > [!TIP]
 > **Going further.** A real tax model needs several extras: NOLs that expire or are limited after an ownership change (a rule that can wipe out NOLs after an acquisition or large share issuance), different tax rates by country, and a valuation allowance when the company is unlikely to use its deferred tax assets. Cross-border companies (incorporated in one country, operating in another) often have a messy effective tax rate, and analysts reconcile it using the rate reconciliation in the filing. In an interview, two points score well: NOLs have value only if the company will earn taxable income, and book tax and cash tax are different lines for a reason.
@@ -390,6 +406,10 @@ The gross leverage looks high, but net leverage is negative, meaning the company
 | IRR over 4 years | 2.44^(1/4) minus 1 | about 25% |
 
 Now lower the exit multiple to 8x. Exit equity value becomes 8,200, proceeds become 820, the money multiple is 1.64x, and IRR is about 13%. A 33 percent drop in the exit multiple cut the IRR roughly in half. This is the key sensitivity in a growth equity deal.
+
+![IRR by Exit Revenue Multiple](../docs/charts/04-exit-multiple-irr.svg)
+
+*IRR climbs steeply with the exit multiple, so the return depends heavily on the market and not only on operations.*
 
 > [!TIP]
 > **Going further.** Real returns models include a fund's fees, a preferred return structure, and the exact timing of cash flows (IRR needs them, not just a start and end date). Ownership changes when new shares are issued. A stake bought at a high price can be washed out by later dilution. In an interview, the best answer to "what drives the return?" usually names the exit multiple first, then growth, then leverage. Acquisitions that earn low margins rarely move the answer much, as this model showed.

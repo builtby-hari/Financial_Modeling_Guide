@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Free Cash Flow Build from Net Income">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Free Cash Flow Build from Net Income</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Stock-based compensation is 23% of FCF</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0</text>
+<line x1="78" x2="732" y1="306.0" y2="306.0" stroke="#e2e8f0"/>
+<text x="70.0" y="310.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">200</text>
+<line x1="78" x2="732" y1="236.0" y2="236.0" stroke="#e2e8f0"/>
+<text x="70.0" y="240.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">400</text>
+<line x1="78" x2="732" y1="166.0" y2="166.0" stroke="#e2e8f0"/>
+<text x="70.0" y="170.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">600</text>
+<line x1="78" x2="732" y1="96.0" y2="96.0" stroke="#e2e8f0"/>
+<text x="70.0" y="100.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">800</text>
+<rect x="91.9" y="236.0" width="54.0" height="140.0" rx="2" fill="#1f3a5f"/>
+<text x="118.9" y="231.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">400</text>
+<rect x="173.6" y="166.0" width="54.0" height="70.0" rx="2" fill="#14b8a6"/>
+<text x="200.6" y="161.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+200</text>
+<line x1="145.9" x2="173.6" y1="236.0" y2="236.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="255.4" y="131.0" width="54.0" height="35.0" rx="2" fill="#14b8a6"/>
+<text x="282.4" y="126.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+100</text>
+<line x1="227.6" x2="255.4" y1="166.0" y2="166.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="337.1" y="124.0" width="54.0" height="7.0" rx="2" fill="#14b8a6"/>
+<text x="364.1" y="119.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+20</text>
+<line x1="309.4" x2="337.1" y1="131.0" y2="131.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="418.9" y="124.0" width="54.0" height="10.5" rx="2" fill="#c2410c"/>
+<text x="445.9" y="119.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-30</text>
+<line x1="391.1" x2="418.9" y1="124.0" y2="124.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="500.6" y="134.5" width="54.0" height="241.5" rx="2" fill="#1f3a5f"/>
+<text x="527.6" y="129.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">690</text>
+<line x1="472.9" x2="500.6" y1="134.5" y2="134.5" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="582.4" y="134.5" width="54.0" height="87.5" rx="2" fill="#c2410c"/>
+<text x="609.4" y="129.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-250</text>
+<line x1="554.6" x2="582.4" y1="134.5" y2="134.5" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="664.1" y="222.0" width="54.0" height="154.0" rx="2" fill="#1f3a5f"/>
+<text x="691.1" y="217.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">440</text>
+<line x1="636.4" x2="664.1" y1="222.0" y2="222.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="118.9" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Net income</text>
+<text x="200.6" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">D&amp;A</text>
+<text x="282.4" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Stock comp</text>
+<text x="364.1" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Deferred</text>
+<text x="364.1" y="407.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">taxes</text>
+<text x="445.9" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Working</text>
+<text x="445.9" y="407.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">capital</text>
+<text x="527.6" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Cash flow</text>
+<text x="527.6" y="407.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">from ops</text>
+<text x="609.4" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Capex</text>
+<text x="691.1" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Free cash</text>
+<text x="691.1" y="407.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">flow</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 02, Part 2, made-up numbers</text>
+</svg>

@@ -94,6 +94,10 @@ EV = Equity value + Debt (short and long term) + Preferred stock + Noncontrollin
 
 Alpha's EV is a bit higher than its equity value because its cash is smaller than its claims from other investors.
 
+![Alpha Equity Value to Enterprise Value](../docs/charts/06-ev-bridge-alpha.svg)
+
+*Debt and preferred add 2,300 while cash and investments take back 1,800, so EV ends 500 above equity value.*
+
 ### 6.2 How Events Change Equity Value and Enterprise Value
 
 - **Two rules answer almost any question.** (1) Does common shareholders' equity change? If yes, equity value changes by the same amount. (2) Do net operating assets change? Operating assets minus operating liabilities. If yes, enterprise value changes by that amount. Rule 1 is true in about 95 to 98 percent of cases, not all of them (see the preferred stock example below).
@@ -275,6 +279,10 @@ At 60 the hedge cancels the bond's dilution. At 90 the warrants are in the money
 
 If the same company reported under IFRS, the operating lease liability (say 400) would be added, giving an EV of 11,620.
 
+![Equity Value to Enterprise Value Full Bridge](../docs/charts/06-ev-bridge-full.svg)
+
+*Debt at fair value is the largest add, and cash, securities and affiliates are the subtractions.*
+
 ### 6.7 Income Statement Valuation Metrics (Revenue, EBIT, EBITDA, EBITDAR, Net Income)
 
 - **Why metrics.** A big EV or equity value means nothing alone. Divide by a metric that measures the company's size or earnings power, and you get a multiple you can compare. A 10x multiple is cheaper than a 15x multiple, all else equal.
@@ -327,6 +335,10 @@ If the same company reported under IFRS, the operating lease liability (say 400)
 
 Multiples: if EV is 16,000, EV/Revenue is 0.8x, EV/EBIT is 12.3x, EV/EBITDA is 8.0x, and EV/EBITDAR is computed with the operating lease liability added to EV, which this example does not include.
 
+![Operating Income to EBITDAR](../docs/charts/06-ebitdar-build.svg)
+
+*Each step adds back one item, and the EBITDAR figure only pairs with an EV that includes the lease liability.*
+
 ### 6.8 Cash Flow Valuation Metrics (Free Cash Flow, Unlevered and Levered)
 
 - **Why cash flow metrics are harder.** Definitions vary by company and standard, and the statements are messy. That makes them weak for peer comparisons, but useful for judging one company on its own.
@@ -370,6 +382,10 @@ Multiples: if EV is 16,000, EV/Revenue is 0.8x, EV/EBIT is 12.3x, EV/EBITDA is 8
 | **Cash flow** | **550** | **460** |
 
 Levered FCF is lower by 90, which is the after-tax interest (120 x 0.75). Unlevered FCF is the amount available to all investors, and levered FCF is what is left for shareholders.
+
+![Unlevered Versus Levered Free Cash Flow](../docs/charts/06-ufcf-vs-lfcf.svg)
+
+*The only difference between the two is the 90 of after-tax interest.*
 
 ### 6.9 How to Pair Valuation Metrics with Enterprise Value and Equity Value
 
@@ -421,6 +437,10 @@ Levered FCF is lower by 90, which is the after-tax interest (120 x 0.75). Unleve
 | 5% | 100 / 0.05 = 2,000 | 20.0x |
 
 FCF grows by only 5 percent between the first and last rows, but the multiple doubles. Growth matters most when it sits close to the discount rate.
+
+![Value to FCF by Growth Rate](../docs/charts/06-growth-multiple.svg)
+
+*The multiple doubles from 10x to 20x as growth rises to 5 percent against a 10 percent discount rate.*
 
 **Peer comparison (made-up).** Company X has revenue growth of 5 percent, EV/EBITDA of 9x, and a peer median of 10x at 5 percent growth. X looks fairly priced. Company Y has 25 percent growth and 6x revenue, against a peer median of 12x at 20 percent growth. Y may be mispriced, but first check whether the peers are truly comparable in size, geography, margins and accounting.
 

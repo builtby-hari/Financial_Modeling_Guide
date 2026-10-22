@@ -177,6 +177,10 @@ Additions = 950 - 800 + 500 = $650M.
 
 If revenue is $2,000M, additions are 32.5% of revenue. Next year, use the amortization schedule for the vintage: $650M spent this year, amortized 25% in year 1, so $162.5M hits cost of revenue in year 1, then $162.5M in year 2, $162.5M in year 3, $97.5M in year 4 and $65M in year 5. Add the existing library's run-off on top to get total amortization.
 
+![Amortization of One Content Vintage](../docs/charts/15-1-content-amortization.svg)
+
+*Amortization is spread across years, which is why it is not a proxy for cash spend.*
+
 | Item | Year 1 | Year 2 | Notes |
 |---|---|---|---|
 | Revenue | 2,000 | 2,200 | |
@@ -225,6 +229,10 @@ A DVD business starts with 4.0 million subscribers and a net loss rate of -20% a
 | 3 | 2.05 | 2.30 | 221.2 |
 
 Revenue falls by about 20% a year, which is a fair way to show a shrinking base with flat fees. Compare that with a case where fees also fall 3% a year: the downside revenue line bends down faster, so the same rule can give a wide range of outcomes from two simple inputs.
+
+![DVD Revenue Run-Off](../docs/charts/15-1-dvd-runoff.svg)
+
+*A flat fee on a shrinking base gives a steady decline in revenue.*
 
 > [!TIP]
 > Real-world note: cash cows like this often fund growth, so the consolidated company can look weaker on a cash basis than the healthy segment really is. When you value or lend against a company like this, value the segments separately and ask whether the cash from the cow is committed to growth or can be used to service debt. Also ask how fast the cow is declining, because that decline rate sets how long the cash flow lasts.
@@ -417,6 +425,10 @@ Now the equity version: $1,000M at a 5% discount to a $100 price with a 3% trans
 - If the bond converts at the end of year 3 (liability 928, equity 120), the company debits both (1,048 in total) and credits common stock and APIC by the same amount.
 - If instead it is repurchased at the end of year 3 for $1,030M when the remaining value is $940M, the loss is 1,030 - 940 = $90M, hitting the income statement.
 
+![Convertible Liability Accreting to Face](../docs/charts/15-1-convert-accretion.svg)
+
+*The unaccreted discount shrinks by $24M a year until the liability reaches face value.*
+
 > [!WARNING]
 > Common mistake: forgetting that accretion adds to the liability and to interest expense together. Also watch the test ordering (conversion, then maturity, then repurchase) so the same year is not counted twice.
 
@@ -548,6 +560,10 @@ Interest coverage: covenant minimum 2.5x, interest $200M, so required EBITDA = $
 | EBITDA / interest | 2.5x min | 3.5x | 2.3x | Breach |
 | Fixed charge coverage | 1.5x min | 1.6x | 0.9x | Breach |
 
+![Minimum EBITDA Covenant Test](../docs/charts/15-1-covenant-cushion.svg)
+
+*Base-case EBITDA clears the $500M requirement with room to spare, but the downside year falls below it.*
+
 > [!TIP]
 > Practical advice: when you present covenant headroom to a client or interviewer, show the cushion, not just pass or fail. Then say which year is the tightest. A cushion that looks fine in the base case but falls under 10% in the year of cash trough is a risk the lender will price in.
 
@@ -590,6 +606,10 @@ xychart-beta
 ```
 
 The first line is the downside case and the second is the base case. Only the downside line crosses the 6x warning level, in year 3. The base case stays inside it, which is the point of showing both.
+
+![Debt to EBITDA by Case](../docs/charts/15-1-leverage-cases.svg)
+
+*Only the downside line crosses the 6x warning level, in year 3.*
 
 **Where the funding need comes from (illustrative split of uses, $M)**
 

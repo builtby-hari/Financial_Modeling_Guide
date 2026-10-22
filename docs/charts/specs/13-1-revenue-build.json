@@ -1,0 +1,2 @@
+{"type":"bar","title":"Revenue Build From Tonnes and Price","subtitle":"Base case, GBP millions","source": "Module 13, Part 1, made-up numbers",
+"fmt":{"prefix":"GBP ","suffix":"M","decimals":1},"categories":["Y0","Y1","Y2"],"series":[{"name":"Revenue","values":[84.0,117.3,153.7]}]}

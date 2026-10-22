@@ -402,6 +402,10 @@ A convertible is split into a debt piece and an equity piece (the value of the c
 | 2 | -15 | 50 | -65 | +65 (drawn balance now 65) | 0 |
 | 3 | -120 | 50 | -170 | +35 (drawn balance now 100, the full line) | 135 |
 
+![How Spinco Funds Its Cash Deficits](../docs/charts/11-2-spinco-funding.svg)
+
+*Spinco uses the revolver first and only issues equity in year 3, once the line is full.*
+
 In year 1 the company has more cash than it needs, so it pays down the drawn revolver first. In year 3 the revolver is full, so the rest of the need is covered with equity. Both the debt and equity lines feed back into the cash flow statement and the balance sheet.
 
 > [!TIP]
@@ -450,6 +454,10 @@ Two points about the formulas:
 | 2 | -25 | 25 | 0 | 65 | 0 |
 | 3 | 30 | 0 | 30 | 35 | 0 |
 | 4 | 50 | 0 | 35 | 0 | (50 - 35) x 21% = 3.2 |
+
+![Spinco Ending NOL Balance](../docs/charts/11-2-spinco-nol.svg)
+
+*Losses build the NOL in the first two years and later profits use it up, so cash tax only appears in year 4.*
 
 In year 4 the NOL runs out partway through, so the company pays cash tax only on the excess. The pattern is the same as the spinoff case: the company looks profitable on paper for a while but pays almost nothing in cash.
 
@@ -682,6 +690,10 @@ When 90% of the value sits in the terminal value, the DCF is really a bet on wha
 | Proposed share price | $30.00 |
 | Premium or discount | -4.6% |
 
+![Spinco DCF Bridge to Equity Value](../docs/charts/11-2-dcf-bridge.svg)
+
+*Debt takes value away and cash gives some back on the way from enterprise value to equity value.*
+
 The check at the end is simple: if the implied price is close to the price being proposed, the model is consistent with the deal. A large gap in either direction is the starting point for the question "why does the market disagree with us?"
 
 > [!TIP]
@@ -741,6 +753,10 @@ Note that the holder does not change its ownership percentage in the parent. Onl
 | Comps average | 165 | 230 |
 | DCF EV | 150 | 260 |
 | Blended EV | 157.5 | 245 |
+
+![Enterprise Value by Method](../docs/charts/11-2-sotp-ev.svg)
+
+*The blended EV sits between the comps average and the DCF for each company.*
 
 - Combined EV = 157.5 + 245 = 402.5.
 - Pre-split net debt = 120, so combined equity = 282.5.

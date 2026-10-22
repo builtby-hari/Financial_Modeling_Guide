@@ -1,0 +1,24 @@
+{
+ "type": "waterfall",
+ "title": "Where Enterprise Value Comes From",
+ "subtitle": "9 percent WACC, 1 percent growth, 10-year forecast",
+ "source": "Module 07, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "PV of forecast cash flows",
+   "value": 4200
+  },
+  {
+   "label": "PV of terminal value",
+   "value": 4800
+  },
+  {
+   "label": "Implied EV",
+   "value": 9000,
+   "total": true
+  }
+ ]
+}

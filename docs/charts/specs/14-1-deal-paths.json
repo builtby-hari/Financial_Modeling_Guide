@@ -1,0 +1,2 @@
+{"type":"bar","title":"Value by Exit Path","subtitle":"The spread across paths matters more than any one point","source": "Module 14, Part 1, made-up numbers",
+"fmt":{"prefix":"$","suffix":"B","decimals":1},"categories":["Cash offer","Consortium (up to)","IPO bull","IPO bear"],"series":[{"name":"Value","values":[2.8,3.4,4.6,1.9]}]}

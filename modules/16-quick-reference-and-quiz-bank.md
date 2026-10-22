@@ -347,6 +347,10 @@ Rule of 72: years to double = 72 / rate. Rule of 115 for tripling.
 
 Other approximations: IRR for 2x = 100% / years x 75%. IRR for 3x = 200% / years x 65%.
 
+![Quick IRR Rules of Thumb](../docs/charts/16-quick-irr.svg)
+
+*A longer hold cuts the IRR for the same multiple, and a bigger multiple lifts it.*
+
 ### Value Creation Split
 
 - EBITDA growth: (exit EBITDA - entry EBITDA) x entry multiple.
@@ -984,6 +988,10 @@ xychart-beta
     y-axis "IRR (percent)" 0 --> 30
     line [7, 14, 19, 24, 28]
 ```
+
+![IRR by Exit Multiple](../docs/charts/16-irr-exit-multiple.svg)
+
+*Each extra turn of exit multiple adds roughly 4 to 7 points of IRR over a 5-year hold.*
 
 ### Illustrative Split of LBO Equity Gain (Made-Up Numbers)
 

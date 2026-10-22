@@ -194,6 +194,10 @@ Target earnings yield: target net income of 150 divided by purchase equity value
 
 The total is far below an assumed ceiling of 100, which tells you the deal's logic does not depend on heroic synergies.
 
+![Year 1 Synergy Bridge](../docs/charts/14-2-synergy-bridge.svg)
+
+*Only the margin on each revenue uplift reaches operating income, so the revenue and cost steps largely offset.*
+
 > [!WARNING]
 > Common mistake: adding the synergy revenue straight to operating income. The uplift is revenue. Only the margin on that revenue reaches operating income, so model the costs.
 
@@ -284,6 +288,10 @@ Target purchase equity value 3,000, so combined pro-forma equity value from the 
 
 Reading the table: profit metrics point to about 75% to 80% for the target. Revenue points the other way, and it is treated as a weak guide here because the target is the profitable company. Users are in between.
 
+![Relative Contribution by Metric](../docs/charts/14-2-contribution.svg)
+
+*Profit metrics point to about 75% to 80% for the target while revenue points the other way.*
+
 > [!WARNING]
 > Common mistake: expecting implied ownership to match contribution exactly. Equity-based metrics match by construction. Enterprise-based metrics differ once you net out cash and debt, which is why ownership can land a few points away from the contribution percentage.
 
@@ -318,6 +326,10 @@ Target shares 60M. The ratio here is defined as target shares divided into new s
 Floating case: the ratio changes with the price, so the offer stays at $40 per target share and the number of new shares moves from 150M at $16 to 100M at $24.
 
 Fixed ratio with a collar (price band $18 to $22): inside the band the table above applies. Below $18 the value is held at 2,160 (floor), so at $16 the ownership is 135 divided by 195, or 69.2%. Above $22 the value is held at 2,640, so at $24 the ownership is 110 divided by 170, or 64.7%. Ownership is fixed inside the band and moves outside it.
+
+![Target Ownership by Partner Share Price](../docs/charts/14-2-collar-ownership.svg)
+
+*Ownership is flat for a fixed ratio, falls steadily for a floating ratio, and is held flat inside the collar band.*
 
 > [!WARNING]
 > Common mistake: assuming the buyer always prefers the fixed ratio or the seller always prefers the floating one. The right answer depends on expectations about the buyer's price and on which side cares more about ownership or about price.
@@ -453,6 +465,10 @@ Read the last line carefully. The raise sells a quarter of the company even thou
 | 40 | 40 | 1,600 | 1,200 | 1,130 | 25% |
 
 Here the share count is fixed at 40M sold (30M primary, 10M secondary), so the deal size and the proceeds rise with price, and the percent sold stays at 25%. Net proceeds deduct a 5% underwriting discount on primary shares only and a fixed deal fee of 10.
+
+![Gross Primary Proceeds by Offering Price](../docs/charts/14-2-ipo-net-proceeds.svg)
+
+*With shares fixed, proceeds rise in step with the offering price and the fees take a small, steady slice.*
 
 > [!WARNING]
 > Common mistake: assuming the offering price range comes from thin air. This model only makes sense after you have a valuation. Pick the price range from comparable multiples first, then fix the share count.

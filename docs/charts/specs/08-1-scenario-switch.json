@@ -1,0 +1,26 @@
+{
+ "type": "bar",
+ "title": "Year 2 Revenue by Scenario",
+ "subtitle": "One drug, one scenario switch, $ millions",
+ "source": "Module 08, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "categories": [
+  "Downside",
+  "Base",
+  "Upside"
+ ],
+ "series": [
+  {
+   "name": "Year 2 revenue",
+   "values": [
+    1664,
+    2400,
+    2728
+   ]
+  }
+ ]
+}

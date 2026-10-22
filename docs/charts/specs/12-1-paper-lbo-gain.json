@@ -1,0 +1,30 @@
+{
+ "type": "waterfall",
+ "title": "Paper LBO Gain by Source",
+ "subtitle": "Total gain of 1,701",
+ "source": "Module 12, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "EBITDA growth",
+   "value": 945
+  },
+  {
+   "label": "Multiple expansion",
+   "value": 305
+  },
+  {
+   "label": "Debt paydown",
+   "value": 451
+  },
+  {
+   "label": "Total gain",
+   "value": 1701,
+   "total": true
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "type": "stacked",
+ "title": "Liquidity Against a 1,000 Minimum",
+ "subtitle": "A fully drawn revolver leaves cash of 600 against a minimum of 1,000",
+ "source": "Module 05, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "categories": [
+  "Revolver undrawn",
+  "Revolver fully drawn"
+ ],
+ "series": [
+  {
+   "name": "Cash",
+   "values": [
+    600,
+    600
+   ]
+  },
+  {
+   "name": "Undrawn revolver",
+   "values": [
+    500,
+    0
+   ]
+  }
+ ]
+}

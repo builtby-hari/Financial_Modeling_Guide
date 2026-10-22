@@ -1,0 +1,39 @@
+{
+ "type": "bar",
+ "title": "Contribution vs Ownership",
+ "subtitle": "Buyer and target share of each metric",
+ "source": "Module 10, made-up numbers",
+ "fmt": {
+  "suffix": "%",
+  "decimals": 0
+ },
+ "categories": [
+  "Revenue",
+  "EBITDA",
+  "Net income",
+  "Book equity",
+  "Ownership"
+ ],
+ "series": [
+  {
+   "name": "Buyer",
+   "values": [
+    70,
+    65,
+    60,
+    75,
+    58
+   ]
+  },
+  {
+   "name": "Target",
+   "values": [
+    30,
+    35,
+    40,
+    25,
+    42
+   ]
+  }
+ ]
+}

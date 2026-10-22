@@ -1,0 +1,35 @@
+{
+ "type": "bar",
+ "title": "Taxable Income vs NOL Used",
+ "subtitle": "The NOL shelters income until it runs out in year 4",
+ "source": "Module 04, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "categories": [
+  "Year 1",
+  "Year 2",
+  "Year 3",
+  "Year 4"
+ ],
+ "series": [
+  {
+   "name": "Taxable income",
+   "values": [
+    10,
+    40,
+    80,
+    90
+   ]
+  },
+  {
+   "name": "NOL used",
+   "values": [
+    10,
+    40,
+    40,
+    60
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "type": "waterfall",
+ "title": "Equity Value to Enterprise Value",
+ "subtitle": "Out-of-the-money convertible counts as debt, $ millions",
+ "source": "Module 08, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Equity value",
+   "value": 5205,
+   "total": true
+  },
+  {
+   "label": "Convertible at fair value",
+   "value": 380
+  },
+  {
+   "label": "Cash and investments",
+   "value": -600
+  },
+  {
+   "label": "Equity investments",
+   "value": -8
+  },
+  {
+   "label": "Enterprise value",
+   "value": 4977,
+   "total": true
+  }
+ ]
+}

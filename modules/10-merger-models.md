@@ -187,6 +187,10 @@ Companies try to use the cheapest funding first. The order is cash, then debt, t
 | New shares (295 / 50, M) | 5.9 |
 | Existing holders' ownership after deal | 40 / 45.9 = 87% |
 
+![Funding Waterfall for the Purchase](../docs/charts/10-funding-mix.svg)
+
+*Stock fills the gap left after cash and debt reach their limits.*
+
 - Weighted cost of acquisition = sum of (each funding amount / purchase equity value x its after-tax cost).
 - Foregone interest on cash uses the pre-tax cash yield, and interest on new debt uses the pre-tax debt rate. Both are multiplied by the amounts used, then taxed.
 
@@ -419,6 +423,10 @@ Cash used adds to net debt, because the cash was netted off before. Debt adds to
 | New DTL on write-ups at 25% (40 + 350 + 140) x 25% | 132.5 |
 | Goodwill created | 982.5 |
 
+![Building Goodwill in a Deal](../docs/charts/10-goodwill.svg)
+
+*Write-ups of assets reduce goodwill, while the new deferred tax liability increases it.*
+
 - Goodwill is what is left once everything else is allocated. Assets that go up in value reduce the goodwill needed. Liabilities that are created increase it.
 - Existing goodwill is written off because its fair value is treated as zero. It is not an identifiable asset that can be resold.
 - The write-ups do not get a tax deduction for cash taxes, so they create a **deferred tax liability**. The DTL is a timing item. Cash taxes run above book taxes early on, and the DTL unwinds as the book depreciation and amortization run off.
@@ -547,6 +555,10 @@ The target's existing debt is replaced at the same face value, so it nets to zer
 | Cost savings | 30 | 50 | 60 |
 | Integration costs (100% of Year 3 savings x two thirds / one third) | (40) | (20) | 0 |
 
+![Synergies by Year](../docs/charts/10-synergies.svg)
+
+*Cost savings make up most of the synergy total, which is why they are easier to defend.*
+
 > [!WARNING]
 > The most common mistake on revenue synergies is to count the extra sales and forget the extra cost of selling them. The net contribution is often a small fraction of the gross revenue. Cost synergies are easier to defend because they are tied to roles and contracts.
 
@@ -613,6 +625,10 @@ Illustration (made-up numbers): after-tax synergy present value of 310 against a
 | Total debt / total capital | 56% | 49% | 41% | 34% |
 
 The pattern is the point: a fast fall in leverage says the company can carry more debt at the start. That is an argument for a more debt-heavy funding mix, which is a recommendation the model is supposed to support.
+
+![Debt to EBITDA After the Deal](../docs/charts/10-debt-ebitda.svg)
+
+*Leverage falls from 3.2x to 1.5x in four years as debt is paid down and EBITDA grows.*
 
 **Sensitivity tables**
 
@@ -716,6 +732,10 @@ The pattern is the point: a fast fall in leverage says the company can carry mor
 | Net income | 60% | 40% |
 | Book equity | 75% | 25% |
 | Proposed ownership (all stock at current offer) | 58% | 42% |
+
+![Contribution vs Ownership](../docs/charts/10-contribution.svg)
+
+*The target owns a larger share of the combined company than its contribution to revenue and EBITDA.*
 
 - The buyer contributes about two thirds of most metrics, but at the offer price it owns less than 60 percent. The target's owners are getting more ownership than their contribution.
 - Implied price from the contribution view comes out below the target's current trading price, which is a problem: a buyer cannot offer less than the current price to get control. So the analysis is read as a direction, not a precise price.

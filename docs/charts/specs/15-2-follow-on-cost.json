@@ -1,0 +1,2 @@
+{"type":"bar","title":"After-Tax Cost of Each Funding Source","subtitle":"Equity at three offer discounts against debt and a convertible","source":"Module 15, Part 2, made-up numbers","fmt":{"suffix":"%","decimals":1},
+"categories":["Equity, 0% disc.","Equity, 10% disc.","Equity, 20% disc.","Convert, cash only","Debt, after tax"],"series":[{"name":"Cost","values":[1.9,2.1,2.4,1.5,4.5]}]}

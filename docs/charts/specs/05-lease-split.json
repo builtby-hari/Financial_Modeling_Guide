@@ -1,0 +1,36 @@
+{
+ "type": "stacked",
+ "title": "IFRS 16 Lease Expense Split",
+ "subtitle": "Same total expense, new presentation",
+ "source": "Module 05, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "categories": [
+  "Before",
+  "After"
+ ],
+ "series": [
+  {
+   "name": "Lease plus maintenance expense",
+   "values": [
+    100,
+    0
+   ]
+  },
+  {
+   "name": "Interest share",
+   "values": [
+    0,
+    30
+   ]
+  },
+  {
+   "name": "Right-of-use depreciation",
+   "values": [
+    0,
+    70
+   ]
+  }
+ ]
+}

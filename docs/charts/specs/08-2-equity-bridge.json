@@ -1,0 +1,30 @@
+{
+ "type": "waterfall",
+ "title": "DCF Enterprise Value to Equity Value",
+ "subtitle": "Debt at fair value, $ millions",
+ "source": "Module 08, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Enterprise value",
+   "value": 4000,
+   "total": true
+  },
+  {
+   "label": "Debt at fair value",
+   "value": -600
+  },
+  {
+   "label": "Cash and investments",
+   "value": 500
+  },
+  {
+   "label": "Equity value",
+   "value": 3900,
+   "total": true
+  }
+ ]
+}

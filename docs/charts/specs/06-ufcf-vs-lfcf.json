@@ -1,0 +1,25 @@
+{
+ "type": "waterfall",
+ "title": "Unlevered vs Levered Free Cash Flow",
+ "subtitle": "The gap is after-tax interest: 120 x 0.75",
+ "source": "Module 06, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Unlevered FCF",
+   "value": 550,
+   "total": true
+  },
+  {
+   "label": "After-tax interest",
+   "value": -90
+  },
+  {
+   "label": "Levered FCF",
+   "value": 460,
+   "total": true
+  }
+ ]
+}

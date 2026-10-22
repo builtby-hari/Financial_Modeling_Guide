@@ -103,6 +103,10 @@ Interest expense             = Beginning face value x coupon rate + amortization
 | Coupon interest (6% of beginning face) | | 12.0 | 12.0 | 12.0 | 12.0 | 12.0 |
 | Total interest expense | | 12.8 | 12.8 | 12.8 | 12.8 | 12.8 |
 
+![Book Value of Debt Climbs Toward Face](../docs/charts/03-debt-book-value.svg)
+
+*The 0.8 fee amortization lifts book value toward face value each year.*
+
 **Three statement effects:**
 
 - **Income statement:** interest expense includes the coupon plus the amortization. Pre-tax income falls by the total.
@@ -145,6 +149,10 @@ Price (per 100 face) = PRICE(settlement, maturity, coupon, yield, redemption, fr
 | Maturity in 1 year, yields 6% | 6% | 100% | about 99.1 |
 
 Two patterns to notice. First, the price moves in the opposite direction to yields. Second, the same yield change moves a long bond more than a short one.
+
+![Bond Market Value by Scenario](../docs/charts/03-market-value.svg)
+
+*Value falls when yields rise or credit weakens and rises when yields fall.*
 
 > [!TIP]
 > **Why this matters in practice.** Bloomberg and similar terminals show bond prices every day, so when you look at a company's debt you should know whether the number in its filing is book or market. Analysts use market value when they compute enterprise value or leverage on a "true" basis, especially for distressed names. The 2022 rate increases pushed many long-dated bonds well below par, which is a good real-world check on this math.
@@ -267,6 +275,10 @@ Repayment at maturity    = Beginning face value + PIK accrued in the year
 
 The company repays about 127.6 on a 100 loan. The compounding is the cost.
 
+![PIK Debt Face Value at 5%](../docs/charts/03-pik-growth.svg)
+
+*The balance grows faster each year because interest is charged on prior accrued interest.*
+
 **Statement effects:**
 
 - **Income statement:** the PIK interest is part of interest expense and reduces pre-tax income, the same as cash interest. The expense line does not change based on whether interest is cash or PIK.
@@ -350,6 +362,10 @@ Note on timing: ownership used for a year's income is the ownership at the end o
 | Ending stake (starting at 30.0) | 31.26 | 32.70 | 34.32 |
 
 Check Year 3: 30.0 + 2.1 - 0.84 = 31.26. The stake behaves like a mini equity account: it grows with the share of profit kept by the target and shrinks by the dividends paid out.
+
+![Equity Earnings vs Dividends Received](../docs/charts/03-equity-method.svg)
+
+*Booked earnings are much larger than the cash actually received as dividends.*
 
 Funding the purchase: a 50% cash and 50% debt split is a common assumption. Debt issuance is the stake's price times the debt share, but only when the stake grows (use MAX of zero so a sale does not create a debt draw).
 
@@ -659,6 +675,10 @@ The balance sheet balances, and the 4.5 after-tax gain shows up in equity.
 | LIFO | Last 20 bought: 10 x 16 + 10 x 14 | 300 | 300 | 220 (20 oldest units) |
 
 Check: COGS plus ending inventory always equals the 520 purchased. Under rising costs, LIFO gives the highest COGS and lowest profit, and FIFO gives the lowest COGS and highest profit. Moving average sits in between.
+
+![COGS and Gross Profit by Inventory Method](../docs/charts/03-inventory-methods.svg)
+
+*LIFO gives the highest COGS and lowest profit, FIFO the reverse, with moving average in between.*
 
 **Effects when costs are rising:**
 

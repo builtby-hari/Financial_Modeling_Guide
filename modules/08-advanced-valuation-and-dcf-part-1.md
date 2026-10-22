@@ -97,6 +97,10 @@ Part 1 is mostly about building things. Part 2 is about turning the built model 
 
 Only the scenario cell changes. The formulas pick the column with `INDEX` or `CHOOSE`, so the drivers for this drug move together under one switch. The revenue cell is still patients times price, the same as in the other drugs.
 
+![Year 2 Revenue by Scenario](../docs/charts/08-1-scenario-switch.svg)
+
+*The downside case cuts both patients and price, so revenue falls much further than either driver alone.*
+
 > [!TIP]
 > **Going further.** Two habits that save time later. First, decide on the timeline and the units before you enter any numbers, and put the fiscal year end on the first tab. Second, keep a source column next to every hardcoded input (filing name and page). Analysts who skip the source column spend the last day of a case hunting for where a number came from. Interviewers also like to ask "where did that number come from", so the habit pays off twice.
 
@@ -128,6 +132,10 @@ Only the scenario cell changes. The formulas pick the column with `INDEX` or `CH
 | Y2 (generics, -90%) | 202,005 | 4.0% | 8,080 | $11,000 | 88.9 |
 
 Revenue falls by about 92 percent from Y1 to Y2 because price falls 90 percent and patients fall 20 percent at the same time. Patients fall only because the share is set lower, not because of the price.
+
+![Revenue Through a Generic Cliff](../docs/charts/08-1-generic-cliff.svg)
+
+*Revenue barely changes in Y1 and then collapses once generics enter in Y2.*
 
 > [!TIP]
 > **Going further.** The generic entry date is the single most important input in this lesson and it is a legal question. A patent calendar, litigation over patent challenges, and settlements with generic makers can all move it. Treat the entry year as a judgment with a range, and say which filing or article it rests on. Also, a 90 percent price cut is a common assumption, but actual erosion depends on how many generic makers enter and whether the drug has an authorized generic. Two generics usually cut price much less than ten do.
@@ -308,6 +316,10 @@ Lung cancer cases fall 2 percent a year. Royalty and milestone rows are shown fr
 
 Only the risk-adjusted line goes into the company's total. The unrisked line is kept for reference, so a reader can see how much value depends on approval.
 
+![Unrisked vs Risk-Adjusted Revenue](../docs/charts/08-1-risk-adjusted.svg)
+
+*The 25 percent probability of success cuts every year of pipeline revenue to a quarter of the unrisked figure.*
+
 > [!TIP]
 > **Going further.** Four points. First, the phase transition rates are industry averages. A drug with a known mechanism, an approved sister drug, or a strong Phase 2 readout deserves a different rate. Second, probability of success is not the same as probability of being on the market by a date. A risk-adjusted revenue line hides timing risk, so run a delayed-launch case as well. Third, a single risk factor multiplying a full revenue curve treats failure as "no revenue at all". In practice, a drug can get approved with a narrower label, so a smaller share might be the better base case. Fourth, the pipeline is often the largest source of valuation disagreement between analysts, so show it as a separate line in your summary.
 
@@ -397,6 +409,10 @@ Year 2 headcount is 1,050 employees at $1.0 million revenue each. Cost per emplo
 
 Year 2 in the same example: NOPAT 105.7, D&A 176.0, deferred taxes (31.1), working capital (10.0), capex (21.0), intangible purchases (52.5), so UFCF is 167.1. UFCF falls because operating profit falls as the margin compresses, while the non-cash and tax lines grow only slightly.
 
+![Year 1 Unlevered Free Cash Flow](../docs/charts/08-1-ufcf-year1.svg)
+
+*The depreciation and amortization add-back is large, so UFCF ends well above NOPAT even after the cash outflows.*
+
 > [!TIP]
 > **Going further.** Three checks. First, deferred taxes are an estimate, and they can be the difference between a sensible and a silly UFCF. Pull the actual cash taxes paid from the cash flow statement and compare them to the book tax line. Second, a model that adds back D&A but ignores stock-based compensation is treating SBC as free. Many analysts subtract it, because the company pays it with shares that dilute holders. Pick one approach and say why. Third, if working capital is set as a percent of the change in revenue, a revenue decline produces a cash inflow, which can flatter UFCF in the declining years. Check the sign in the decline years.
 
@@ -475,6 +491,10 @@ Adjusted EBITDA margin on LTM revenue is 81 / 420, about 19.3 percent. The "adju
 | **Enterprise value** | **4,977.0** | 5,205 + 380 - 600 - 8 |
 
 If the same convertible had a $40 conversion price, it would be in the money. Shares added would be 400 / 40 = 10.0 million, the diluted share count would be 114.1 million, and the debt line would drop to zero.
+
+![Equity Value to Enterprise Value](../docs/charts/08-1-ev-bridge.svg)
+
+*The out-of-the-money convertible adds to enterprise value as debt, while cash and investments reduce it.*
 
 > [!TIP]
 > **Going further.** Four points. First, the treasury stock method gives the answer for options, but a big option pool with a strike close to the price can move diluted shares a lot, so show it as a separate line. Second, the in-the-money test uses today's price. If the stock is near the conversion price, the answer flips with small price moves, so check the sensitivity. Third, the net operating loss line is a judgment. Using the gross number overstates value, and the valuation allowance reflects the company's own view on whether it can use the losses. Fourth, fair value of debt is a market estimate, not a face amount. A convertible that trades below par, for example after rates rise, carries a lower fair value in the bridge. That is the right number for EV, even though the face amount and the coupon have not changed.

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 274" width="760" height="274" role="img" aria-label="DCF Price Sensitivity">
+<rect x="1" y="1" width="758" height="272" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">DCF Price Sensitivity</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Implied price per share, current price $30</text>
+<text x="441.0" y="110.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="middle" font-weight="bold">Terminal growth</text>
+<text x="146.0" y="176.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="middle" font-weight="bold" transform="rotate(-90 146.0 176.0)">Starting discount rate</text>
+<text x="291.0" y="246.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">-2.5%</text>
+<text x="441.0" y="246.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">-1.25%</text>
+<text x="591.0" y="246.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">0.0%</text>
+<text x="208.0" y="144.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="end" font-weight="normal">6.5%</text>
+<rect x="216.0" y="122.0" width="148.0" height="34.0" rx="3" fill="#0f766e"/>
+<text x="291.0" y="144.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" font-weight="normal">$52</text>
+<rect x="366.0" y="122.0" width="148.0" height="34.0" rx="3" fill="#5ea59f"/>
+<text x="441.0" y="144.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" font-weight="normal">$45</text>
+<rect x="516.0" y="122.0" width="148.0" height="34.0" rx="3" fill="#a1cec9"/>
+<text x="591.0" y="144.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$39</text>
+<text x="208.0" y="180.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="end" font-weight="normal">7.0%</text>
+<rect x="216.0" y="158.0" width="148.0" height="34.0" rx="3" fill="#479891"/>
+<text x="291.0" y="180.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" font-weight="normal">$47</text>
+<rect x="366.0" y="158.0" width="148.0" height="34.0" rx="3" fill="#8bc0bb"/>
+<text x="441.0" y="180.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$41</text>
+<rect x="516.0" y="158.0" width="148.0" height="34.0" rx="3" fill="#c3e2de"/>
+<text x="591.0" y="180.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$36</text>
+<text x="208.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="end" font-weight="normal">7.5%</text>
+<rect x="216.0" y="194.0" width="148.0" height="34.0" rx="3" fill="#74b3ad"/>
+<text x="291.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$43</text>
+<rect x="366.0" y="194.0" width="148.0" height="34.0" rx="3" fill="#b8dbd7"/>
+<text x="441.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$37</text>
+<rect x="516.0" y="194.0" width="148.0" height="34.0" rx="3" fill="#f0fdfa"/>
+<text x="591.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$32</text>
+<text x="740.0" y="262.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 08, Part 2, made-up numbers</text>
+</svg>

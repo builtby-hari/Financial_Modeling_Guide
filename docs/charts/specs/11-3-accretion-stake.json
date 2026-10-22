@@ -1,0 +1,34 @@
+{
+ "type": "line",
+ "title": "EPS Accretion vs Extra Stake",
+ "subtitle": "Illustrative accretion as the extra stake rises",
+ "source": "Module 11, Part 3, made-up numbers",
+ "fmt": {
+  "suffix": "%",
+  "decimals": 1
+ },
+ "x_label": "Extra stake (%)",
+ "x": [
+  "20",
+  "30",
+  "40",
+  "50",
+  "60",
+  "70",
+  "80"
+ ],
+ "series": [
+  {
+   "name": "Accretion",
+   "values": [
+    -3.0,
+    -1.6,
+    -0.4,
+    0.6,
+    1.4,
+    1.9,
+    2.1
+   ]
+  }
+ ]
+}

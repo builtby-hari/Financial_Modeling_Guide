@@ -1,0 +1,32 @@
+{
+ "type": "bar",
+ "title": "Acquired EBIT vs Amortization",
+ "subtitle": "Intangible amortization swamps the acquired profit",
+ "source": "Module 04, made-up numbers",
+ "fmt": {
+  "decimals": 2
+ },
+ "categories": [
+  "Year 1",
+  "Year 2",
+  "Year 3"
+ ],
+ "series": [
+  {
+   "name": "Acquired EBIT",
+   "values": [
+    0.4,
+    0.95,
+    2.06
+   ]
+  },
+  {
+   "name": "Intangible amortization",
+   "values": [
+    10.0,
+    10.0,
+    10.0
+   ]
+  }
+ ]
+}

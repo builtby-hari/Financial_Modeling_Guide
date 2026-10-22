@@ -1,0 +1,35 @@
+{
+ "type": "waterfall",
+ "title": "Where the Equity Gain Comes From",
+ "subtitle": "Equity invested to exit equity",
+ "source": "Module 12, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 1
+ },
+ "steps": [
+  {
+   "label": "Equity invested",
+   "value": 250,
+   "total": true
+  },
+  {
+   "label": "EBITDA growth",
+   "value": 186
+  },
+  {
+   "label": "Multiple expansion",
+   "value": 0
+  },
+  {
+   "label": "Debt paydown, cash",
+   "value": 95.7
+  },
+  {
+   "label": "Exit equity",
+   "value": 531.7,
+   "total": true
+  }
+ ]
+}

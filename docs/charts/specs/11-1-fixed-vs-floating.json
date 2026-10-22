@@ -1,0 +1,39 @@
+{
+ "type": "line",
+ "title": "Fixed vs Floating Ratio Equity Value",
+ "subtitle": "Purchase equity value by buyer share price",
+ "source": "Module 11, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "x_label": "Buyer share price ($)",
+ "tight": true,
+ "x": [
+  "20.00",
+  "25.00",
+  "28.57",
+  "30.00"
+ ],
+ "series": [
+  {
+   "name": "Fixed ratio",
+   "values": [
+    1600,
+    2000,
+    2286,
+    2400
+   ]
+  },
+  {
+   "name": "Floating ratio with collar",
+   "values": [
+    1800,
+    2000,
+    2000,
+    2100
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "heatmap",
+ "title": "DCF Price Sensitivity",
+ "subtitle": "Implied price per share, current price $30",
+ "source": "Module 08, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "rows": [
+  "6.5%",
+  "7.0%",
+  "7.5%"
+ ],
+ "cols": [
+  "-2.5%",
+  "-1.25%",
+  "0.0%"
+ ],
+ "row_title": "Starting discount rate",
+ "col_title": "Terminal growth",
+ "values": [
+  [
+   52,
+   45,
+   39
+  ],
+  [
+   47,
+   41,
+   36
+  ],
+  [
+   43,
+   37,
+   32
+  ]
+ ]
+}

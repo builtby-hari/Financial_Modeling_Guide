@@ -1,0 +1,27 @@
+{
+ "type": "line",
+ "title": "Debt to EBITDA After the Deal",
+ "subtitle": "Leverage falls as debt is paid down",
+ "source": "Module 10, made-up numbers",
+ "fmt": {
+  "suffix": "x",
+  "decimals": 1
+ },
+ "x": [
+  "Year 1",
+  "Year 2",
+  "Year 3",
+  "Year 4"
+ ],
+ "series": [
+  {
+   "name": "Debt / EBITDA",
+   "values": [
+    3.2,
+    2.6,
+    2.0,
+    1.5
+   ]
+  }
+ ]
+}

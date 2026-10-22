@@ -1,0 +1,47 @@
+{
+ "type": "waterfall",
+ "title": "Operating Income to EBITDAR",
+ "subtitle": "US retailer, millions",
+ "source": "Module 06, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Operating income",
+   "value": 1200,
+   "total": true
+  },
+  {
+   "label": "Restructuring",
+   "value": 100
+  },
+  {
+   "label": "EBIT",
+   "value": 1300,
+   "total": true
+  },
+  {
+   "label": "D&A",
+   "value": 700
+  },
+  {
+   "label": "EBITDA",
+   "value": 2000,
+   "total": true
+  },
+  {
+   "label": "Lease cost",
+   "value": 300
+  },
+  {
+   "label": "Sublease income",
+   "value": -20
+  },
+  {
+   "label": "EBITDAR",
+   "value": 2280,
+   "total": true
+  }
+ ]
+}

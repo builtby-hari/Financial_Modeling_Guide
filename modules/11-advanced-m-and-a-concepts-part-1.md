@@ -193,6 +193,10 @@ Fixed ratio 0.80x, target has 100m diluted shares, floor $25, cap $32. Offer at 
 
 Read the table as: equity value is flat at 2,000 below $25 and flat at 2,560 above $32. Shares issued move in the opposite direction at the edges.
 
+![Equity Value Under a Fixed Ratio With a Collar](../docs/charts/11-1-collar-equity-value.svg)
+
+*Equity value is flat below the floor and above the cap, and only moves with the buyer's price inside the band.*
+
 > [!WARNING]
 > **Going further.**
 >
@@ -241,6 +245,10 @@ xychart-beta
 ```
 
 Read the chart: the top line is the fixed ratio (equity value follows the buyer's price). The bottom line is the floating ratio with collar (flat in the middle, moving at the edges).
+
+![Fixed vs Floating Ratio Equity Value](../docs/charts/11-1-fixed-vs-floating.svg)
+
+*The fixed ratio swings with the buyer's price, while the floating ratio with a collar stays flat through the middle.*
 
 > [!TIP]
 > **Going further.**
@@ -331,6 +339,10 @@ Equity purchase price 1,200. Seller book equity 500. Existing goodwill 150. Sell
 | Asset or 338(h)(10) | 0 | 300.0 | Goodwill over 15 years, intangibles over 15, PP&E over its tax life |
 
 Tax amortization of goodwill in the asset case: 300 / 15 = 20 per year, which lowers cash taxes. That cash-tax saving is the reason buyers sometimes pay more for an asset-style structure.
+
+![From Allocable Premium to Goodwill](../docs/charts/11-1-ppa-goodwill.svg)
+
+*The deferred tax liability in a stock purchase adds 137.5 to goodwill, which is why it ends above the asset case.*
 
 > [!TIP]
 > **Going further.**
@@ -702,6 +714,10 @@ xychart-beta
 ```
 
 The first line is with the collar, the second is without. The gap at $20 is the cost of the collar to the buyer.
+
+![Combined EPS With and Without a Collar](../docs/charts/11-1-eps-collar.svg)
+
+*The collar costs the buyer EPS at $20 and helps it at $35, because the share count moves in opposite directions.*
 
 > [!TIP]
 > **Going further.**

@@ -1,0 +1,44 @@
+{
+ "type": "waterfall",
+ "title": "From Allocable Premium to Goodwill",
+ "subtitle": "Purchase price allocation, stock purchase",
+ "source": "Module 11, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 1
+ },
+ "steps": [
+  {
+   "label": "Allocable premium",
+   "value": 850,
+   "total": true
+  },
+  {
+   "label": "PP&E write-up",
+   "value": -40
+  },
+  {
+   "label": "Indefinite intangibles",
+   "value": -340
+  },
+  {
+   "label": "Definite intangibles",
+   "value": -170
+  },
+  {
+   "label": "Goodwill before tax",
+   "value": 300,
+   "total": true
+  },
+  {
+   "label": "New DTL",
+   "value": 137.5
+  },
+  {
+   "label": "Goodwill, stock deal",
+   "value": 437.5,
+   "total": true
+  }
+ ]
+}

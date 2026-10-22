@@ -1,0 +1,3 @@
+{"type":"bar","title":"Present Value of Two Lease Options at 8%","subtitle":"Option A has the smaller total cost once cash flows are discounted","source":"Module 01, made-up numbers",
+"fmt":{"prefix":"$","decimals":0},"categories":["Year 0","Year 1","Year 2","Year 3","Total PV"],
+"series":[{"name":"Option A","values":[-100000,0,0,79383,-20617]},{"name":"Option B","values":[-5000,-9259,-8573,-3970,-26802]}]}

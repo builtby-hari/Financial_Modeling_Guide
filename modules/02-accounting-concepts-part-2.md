@@ -373,6 +373,10 @@ Working capital: liability rises   -> cash flow goes up
 
 Balance sheet links for the same year: cash goes down by 23.3. Net PP&E goes up by capex (100) and down by D&A (31.5), so it rises by 68.5. Debt falls by 10 because of the repayment. Equity rises by net income of 83.7 and falls by the 33.5 dividend. Each link is made once, and the sign rules above decide the direction.
 
+![Net Income to Change in Cash](../docs/charts/02-2-cash-bridge.svg)
+
+*Capex, debt repayment and dividends outweigh operating cash flow, so cash falls by 23.3.*
+
 > [!TIP]
 > Projection is where most model errors show up. The fastest diagnostic is the balance check: if it is off, the error is in a sign or a link, not in the forecast assumptions.
 
@@ -453,6 +457,10 @@ A worked comparison with the same growth: if revenue grows by 1,000 and the work
 
 Reading the table: revenue grew about 5% in Year 3, but FCF fell 11%. Operating cash flow still grew (+5%), so the drop is entirely capex, which rose 36% in one year. That is a question to ask management: is this one-off investment (a plant, a system) or a higher maintenance level that will stay?
 
+![Operating Cash Flow, Capex and FCF](../docs/charts/02-2-fcf-trend.svg)
+
+*Operating cash flow keeps growing in Year 3, but a jump in capex pulls free cash flow down.*
+
 **A standard FCF build from net income (made-up):**
 
 ```text
@@ -466,6 +474,10 @@ Net income                       400
 = Free cash flow                 440
 SBC as a share of FCF = 100 / 440 = 23%
 ```
+
+![Free Cash Flow Build from Net Income](../docs/charts/02-2-fcf-build.svg)
+
+*Non-cash add-backs lift operating cash flow well above net income, and capex then takes a large share back.*
 
 > [!TIP]
 > Unlevered free cash flow is the version many valuation models use. It adds back after-tax interest, so it measures cash before the company's financing choices. Levered FCF (above) measures cash after interest, which is what equity holders can use. A DCF needs the unlevered version when it discounts at WACC.
@@ -528,6 +540,10 @@ Metrics answer four questions: which company uses capital best, which relies mor
 | Cash conversion cycle | 40 days | 8 days |
 
 Reading the table: Company B has a lower cash conversion cycle and higher returns, but it has the same leverage ratio as A. Its coverage is lower, which is worth noting even though both are comfortable. Before crediting B with better capital use, check whether a lower tax rate or a one-time item lifted its returns, as with the tax-driven jump in one of these comparisons.
+
+![Returns: Company A vs Company B](../docs/charts/02-2-returns-compare.svg)
+
+*Company B posts higher returns on equity, assets and invested capital than Company A.*
 
 > [!TIP]
 > Metrics are only as good as their definitions. Two analysts can quote different ROICs for the same company because they treat leases, cash and goodwill differently. Write the definition next to the number.

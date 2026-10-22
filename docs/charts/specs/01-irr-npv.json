@@ -1,0 +1,3 @@
+{"type":"bar","title":"NPV of the Five-Year Instrument by Rate","subtitle":"NPV crosses zero at the 10% IRR","source":"Module 01, made-up numbers",
+"fmt":{"prefix":"$","decimals":2},"categories":["8%","10%","12%"],
+"series":[{"name":"NPV","values":[79.87,0,-72.08]}]}

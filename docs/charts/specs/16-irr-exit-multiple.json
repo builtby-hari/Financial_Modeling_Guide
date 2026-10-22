@@ -1,0 +1,2 @@
+{"type":"line","title":"IRR by Exit Multiple","subtitle":"Illustrative 5-year hold, IRR = MoM^(1/5) - 1","source":"Module 16, made-up numbers","fmt":{"suffix":"%","decimals":0},"x_label":"Exit multiple (x)",
+"x":[6,8,10,12,14],"series":[{"name":"IRR","values":[7,14,19,24,28]}]}

@@ -1,0 +1,2 @@
+{"type":"line","title":"Debt to EBITDA by Case","subtitle":"Only the downside case crosses the 6x warning level","source":"Module 15, Part 1, made-up numbers","fmt":{"suffix":"x","decimals":1},
+"x":["Y1","Y2","Y3","Y4","Y5"],"series":[{"name":"Downside","values":[2.5,3.5,8.8,5.0,3.6]},{"name":"Base","values":[2.5,2.9,3.8,3.0,2.6]}]}

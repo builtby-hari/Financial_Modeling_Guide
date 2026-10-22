@@ -1,0 +1,2 @@
+{"type":"waterfall","title":"Year 1 Synergy Bridge","subtitle":"Revenue and cost items building to total operating income synergy","source":"Module 14, Part 2, made-up numbers","fmt":{"prefix":"$","suffix":"M","decimals":1},
+"steps":[{"label":"Ad revenue uplift","value":22},{"label":"Ad uplift costs","value":-11},{"label":"Game revenue uplift","value":6},{"label":"Game uplift costs","value":-1.5},{"label":"Expense savings","value":7},{"label":"Total synergy","value":22.5,"total":true}]}

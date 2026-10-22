@@ -1,0 +1,39 @@
+{
+ "type": "line",
+ "title": "Combined EPS With and Without a Collar",
+ "subtitle": "Combined net income held at 260",
+ "source": "Module 11, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "",
+  "decimals": 2
+ },
+ "x_label": "Buyer share price ($)",
+ "tight": true,
+ "x": [
+  "20",
+  "25",
+  "28",
+  "35"
+ ],
+ "series": [
+  {
+   "name": "With collar",
+   "values": [
+    1.27,
+    1.41,
+    1.41,
+    1.47
+   ]
+  },
+  {
+   "name": "Without collar",
+   "values": [
+    1.41,
+    1.41,
+    1.41,
+    1.41
+   ]
+  }
+ ]
+}

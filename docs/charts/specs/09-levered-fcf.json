@@ -1,0 +1,46 @@
+{
+ "type": "waterfall",
+ "title": "Levered Free Cash Flow",
+ "subtitle": "From net income to levered FCF, $ millions",
+ "source": "Module 09, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Net income",
+   "value": 400,
+   "total": true
+  },
+  {
+   "label": "D&A",
+   "value": 150
+  },
+  {
+   "label": "Non-cash interest",
+   "value": 30
+  },
+  {
+   "label": "Deferred taxes",
+   "value": 20
+  },
+  {
+   "label": "Working capital",
+   "value": -50
+  },
+  {
+   "label": "Capex",
+   "value": -200
+  },
+  {
+   "label": "Net borrowing",
+   "value": 100
+  },
+  {
+   "label": "Levered FCF",
+   "value": 450,
+   "total": true
+  }
+ ]
+}

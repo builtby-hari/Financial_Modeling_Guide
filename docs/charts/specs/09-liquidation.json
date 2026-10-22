@@ -1,0 +1,39 @@
+{
+ "type": "bar",
+ "title": "Book vs Recovery-Adjusted Assets",
+ "subtitle": "Liquidation view, $ millions",
+ "source": "Module 09, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "categories": [
+  "Cash",
+  "Receivables",
+  "Inventory",
+  "Net PP&E",
+  "Goodwill"
+ ],
+ "series": [
+  {
+   "name": "Book",
+   "values": [
+    100,
+    200,
+    150,
+    500,
+    50
+   ]
+  },
+  {
+   "name": "Adjusted",
+   "values": [
+    100,
+    170,
+    67.5,
+    750,
+    0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+{"type":"waterfall","title":"Tutoring Revenue to Net Income","subtitle":"First-year income statement, 25% tax","source":"Module 02, Part 1, made-up numbers",
+"fmt":{"decimals":0},"steps":[{"label":"Revenue","value":1000,"total":true},{"label":"COGS","value":-100},{"label":"Operating expenses","value":-700},{"label":"Tax","value":-50},{"label":"Net income","value":150,"total":true}]}

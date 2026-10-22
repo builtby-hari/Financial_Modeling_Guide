@@ -1,0 +1,42 @@
+{
+ "type": "waterfall",
+ "title": "EBIT to Unlevered FCF",
+ "subtitle": "Year 1, millions",
+ "source": "Module 07, made-up numbers",
+ "fmt": {
+  "decimals": 1
+ },
+ "steps": [
+  {
+   "label": "EBIT",
+   "value": 250,
+   "total": true
+  },
+  {
+   "label": "Operating taxes",
+   "value": -62.5
+  },
+  {
+   "label": "NOPAT",
+   "value": 187.5,
+   "total": true
+  },
+  {
+   "label": "D&A",
+   "value": 50
+  },
+  {
+   "label": "Working capital",
+   "value": -20
+  },
+  {
+   "label": "CapEx",
+   "value": -80
+  },
+  {
+   "label": "Unlevered FCF",
+   "value": 137.5,
+   "total": true
+  }
+ ]
+}

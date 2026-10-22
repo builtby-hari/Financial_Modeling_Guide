@@ -1,0 +1,2 @@
+{"type":"bar","title":"Yield to Exit by Scenario","subtitle":"The first proposal pays investors less than the existing bond","source":"Module 15, Part 2, made-up numbers","fmt":{"suffix":"%","decimals":1},
+"categories":["Existing bond","Proposal, 15% equity","Revised, 25% equity"],"series":[{"name":"Yield","values":[30.2,28.9,30.8]}]}

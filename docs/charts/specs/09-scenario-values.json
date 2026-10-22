@@ -1,0 +1,25 @@
+{
+ "type": "bar",
+ "title": "Value per Share by Scenario",
+ "subtitle": "Pitch scenarios against a $50 price",
+ "source": "Module 09, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "categories": [
+  "Downside",
+  "Base",
+  "Upside"
+ ],
+ "series": [
+  {
+   "name": "Value per share",
+   "values": [
+    44,
+    65,
+    85
+   ]
+  }
+ ]
+}

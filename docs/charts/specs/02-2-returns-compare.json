@@ -1,0 +1,3 @@
+{"type":"bar","title":"Returns: Company A vs Company B","subtitle":"Company B earns more on every measure","source":"Module 02, Part 2, made-up numbers",
+"fmt":{"suffix":"%","decimals":1},"categories":["ROE","ROA","ROIC"],
+"series":[{"name":"Company A","values":[15.9,5.3,10.7]},{"name":"Company B","values":[18.8,9.0,12.9]}]}

@@ -183,6 +183,10 @@ These are the items that move from the balance sheet and filings into the enterp
 | 10 | EV / LTM EBITDA | 29.7x |
 | 11 | One-day premium, if the pre-deal price was $54 | 70 / 54 - 1 = 29.6% |
 
+![Offer Price to Purchase Enterprise Value](../docs/charts/08-2-purchase-ev.svg)
+
+*Net debt is a small adjustment here, so the purchase enterprise value stays close to the equity purchase price.*
+
 > [!TIP]
 > **Going further.** Premium and multiple alone do not explain a deal. Strategic buyers can pay more for synergies, and distressed targets can trade at low multiples. Always write a one-line note on why the deal happened, because a precedent with a bidding war is different from a quiet negotiated sale.
 
@@ -496,6 +500,10 @@ Final-year EBITDA = 300. Normalized terminal FCF = 200. Terminal growth = -1%. F
 
 The two methods land within a few percent of each other, which is a good sign. The perpetuity figure is higher because its cash flow is discounted from an earlier date.
 
+![Terminal Value Share of EV](../docs/charts/08-2-terminal-share.svg)
+
+*Both methods put about 70 percent of enterprise value in the terminal value.*
+
 > [!TIP]
 > **Going further.** The mid-year adjustment for perpetuity is a convention, and some teams handle it by adjusting the terminal value itself and using a year-end factor. Pick one approach, use it on every model, and state it. Also, the exit multiple is the easiest input to abuse. Show the implied growth rate next to it on the same page so readers can see both.
 
@@ -550,6 +558,10 @@ Implied share price = Equity value / (basic shares + net option shares + RSUs + 
 | Current price (assumed) | $30.0 |
 | Premium | 37.9 / 30.0 - 1 = 26% |
 
+![DCF Enterprise Value to Equity Value](../docs/charts/08-2-equity-bridge.svg)
+
+*Debt at fair value and cash move enterprise value to equity value before dividing by diluted shares.*
+
 Illustrative sensitivity table (made-up outputs, implied price per share):
 
 | Starting discount rate \ terminal growth | -2.5% | -1.25% | 0.0% |
@@ -559,6 +571,10 @@ Illustrative sensitivity table (made-up outputs, implied price per share):
 | 7.5% | $43 | $37 | $32 |
 
 Read the table by asking which cells sit above the current price. If most do, the stock looks cheap across the range. If only the corner cases do, the call depends on one input.
+
+![DCF Price Sensitivity](../docs/charts/08-2-sensitivity.svg)
+
+*Every cell sits above the current price of $30, but the implied price runs from $32 to $52 depending on the discount rate and terminal growth.*
 
 > [!TIP]
 > **Going further.** A sensitivity table only shows the inputs you chose. A downside case should also include the event risks the table misses (a failed trial, a generic entry earlier than assumed, a rate shock). Also, a table that is almost entirely above the current price can reflect a model that is too generous overall, so check the base case assumptions before trusting the headline.
@@ -594,6 +610,10 @@ Read the table by asking which cells sit above the current price. If most do, th
 | DCF (downside to upside, two discount rates) | $28 | $52 | $30 |
 
 Here the current price is below the low end of the precedent bar and in the lower part of the others, so the stock screens cheap on every method. The DCF bar is the widest, which tells you the answer is most sensitive to the operating case.
+
+![Valuation Football Field](../docs/charts/08-2-football.svg)
+
+*The current price sits inside or below most bars, and the DCF bar is the widest.*
 
 > [!TIP]
 > **Going further.** A football field is a summary of your assumptions, not evidence. Each bar can be pushed wider or narrower by how you choose the percentiles and scenarios. Before a pitch, reread the chart as if you wanted the opposite answer and see if the bars still support it. If they do not, the case is weaker than it looks.

@@ -1,0 +1,2 @@
+{"type":"bar","title":"Convertible Value by Volatility","subtitle":"Implied value per $100 of face at three volatility inputs","source":"Module 15, Part 2, made-up numbers","fmt":{"prefix":"$","decimals":1},
+"categories":["20% vol","30% vol","45% vol"],"series":[{"name":"Implied value","values":[98.6,106.3,117.3]}]}

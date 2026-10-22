@@ -1,0 +1,2 @@
+{"type":"stacked","title":"Gross Primary Proceeds by Offering Price","subtitle":"Net proceeds to the company plus underwriting discount and deal fees","source":"Module 14, Part 2, made-up numbers","fmt":{"prefix":"$","suffix":"M","decimals":1},
+"categories":["$25","$30","$40"],"series":[{"name":"Net proceeds","values":[702.5,845,1130]},{"name":"Underwriting discount and fees","values":[47.5,55,70]}]}

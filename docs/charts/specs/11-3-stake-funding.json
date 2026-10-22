@@ -1,0 +1,26 @@
+{
+ "type": "bar",
+ "title": "Funding Mix for the Stake Purchase",
+ "subtitle": "Cash, then debt up to capacity, then stock, total 2,562.5",
+ "source": "Module 11, Part 3, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 1
+ },
+ "categories": [
+  "Cash",
+  "New debt",
+  "New stock"
+ ],
+ "series": [
+  {
+   "name": "Amount",
+   "values": [
+    300,
+    1150,
+    1112.5
+   ]
+  }
+ ]
+}

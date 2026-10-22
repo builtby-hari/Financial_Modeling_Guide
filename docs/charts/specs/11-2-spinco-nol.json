@@ -1,0 +1,28 @@
+{
+ "type": "bar",
+ "title": "Spinco Ending NOL Balance",
+ "subtitle": "NOL builds in years 1 and 2, then is used up by year 4",
+ "source": "Module 11, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "categories": [
+  "Year 1",
+  "Year 2",
+  "Year 3",
+  "Year 4"
+ ],
+ "series": [
+  {
+   "name": "Ending NOL",
+   "values": [
+    40,
+    65,
+    35,
+    0
+   ]
+  }
+ ]
+}

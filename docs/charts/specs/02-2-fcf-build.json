@@ -1,0 +1,2 @@
+{"type":"waterfall","title":"Free Cash Flow Build from Net Income","subtitle":"Stock-based compensation is 23% of FCF","source":"Module 02, Part 2, made-up numbers",
+"fmt":{"decimals":0},"steps":[{"label":"Net income","value":400,"total":true},{"label":"D&A","value":200},{"label":"Stock comp","value":100},{"label":"Deferred taxes","value":20},{"label":"Working capital","value":-30},{"label":"Cash flow from ops","value":690,"total":true},{"label":"Capex","value":-250},{"label":"Free cash flow","value":440,"total":true}]}

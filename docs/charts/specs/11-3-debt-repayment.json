@@ -1,0 +1,28 @@
+{
+ "type": "bar",
+ "title": "Scheduled Principal Repayment",
+ "subtitle": "10% of 1,000 a year, scaled in the stub and capped in the final year",
+ "source": "Module 11, Part 3, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "categories": [
+  "Stub",
+  "Year 1",
+  "Year 2",
+  "Final year"
+ ],
+ "series": [
+  {
+   "name": "Repayment used",
+   "values": [
+    67,
+    100,
+    100,
+    80
+   ]
+  }
+ ]
+}

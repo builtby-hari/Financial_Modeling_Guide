@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Equity Earnings vs Dividends Received">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Equity Earnings vs Dividends Received</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">30% stake: earnings are booked, only dividends are cash</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Equity investment earnings</text>
+<rect x="255.20000000000002" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="273.2" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Dividends received</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0.00</text>
+<line x1="78" x2="732" y1="290.7" y2="290.7" stroke="#e2e8f0"/>
+<text x="70.0" y="294.7" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">1.00</text>
+<line x1="78" x2="732" y1="205.3" y2="205.3" stroke="#e2e8f0"/>
+<text x="70.0" y="209.3" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">2.00</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">3.00</text>
+<rect x="132.0" y="196.8" width="54.0" height="179.2" rx="2" fill="#1f3a5f"/>
+<text x="159.0" y="191.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">2.10</text>
+<rect x="188.0" y="304.3" width="54.0" height="71.7" rx="2" fill="#14b8a6"/>
+<text x="215.0" y="299.3" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">0.84</text>
+<rect x="350.0" y="171.2" width="54.0" height="204.8" rx="2" fill="#1f3a5f"/>
+<text x="377.0" y="166.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">2.40</text>
+<rect x="406.0" y="294.1" width="54.0" height="81.9" rx="2" fill="#14b8a6"/>
+<text x="433.0" y="289.1" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">0.96</text>
+<rect x="568.0" y="145.6" width="54.0" height="230.4" rx="2" fill="#1f3a5f"/>
+<text x="595.0" y="140.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">2.70</text>
+<rect x="624.0" y="283.8" width="54.0" height="92.2" rx="2" fill="#14b8a6"/>
+<text x="651.0" y="278.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">1.08</text>
+<text x="187.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 3</text>
+<text x="405.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 4</text>
+<text x="623.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 5</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 03, made-up numbers</text>
+</svg>

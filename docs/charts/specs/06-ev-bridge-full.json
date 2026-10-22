@@ -1,0 +1,45 @@
+{
+ "type": "waterfall",
+ "title": "Equity Value to EV, Full Bridge",
+ "subtitle": "US company with affiliates, NCI and a pension deficit",
+ "source": "Module 06, made-up numbers",
+ "fmt": {
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Equity value",
+   "value": 9000,
+   "total": true
+  },
+  {
+   "label": "Cash",
+   "value": -800
+  },
+  {
+   "label": "Securities",
+   "value": -200
+  },
+  {
+   "label": "Affiliates",
+   "value": -150
+  },
+  {
+   "label": "Debt (fair value)",
+   "value": 3100
+  },
+  {
+   "label": "NCI",
+   "value": 120
+  },
+  {
+   "label": "Pension (after tax)",
+   "value": 150
+  },
+  {
+   "label": "Enterprise value",
+   "value": 11220,
+   "total": true
+  }
+ ]
+}

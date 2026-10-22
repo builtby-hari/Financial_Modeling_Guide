@@ -73,6 +73,10 @@ Read it as a left-to-right build. Adjusted historicals (lesson 14.4) feed the pr
 | IPO, bull case | $4.6B | Depends on market |
 | IPO, bear case | $1.9B | Depends on market |
 
+![Value by Exit Path](../docs/charts/14-1-deal-paths.svg)
+
+*The paths span from 1.9 to 4.6 billion, so the range matters more than one point.*
+
 Values are illustrative only. They show why the range matters more than one point estimate.
 
 ### 14.2 Private Company Differences
@@ -252,6 +256,10 @@ Target EBITDA is $80M. Three peer groups give EV/EBITDA of 6x, 11x and 16x. Pick
 | Add cash | 100 |
 | Equity value | 848 |
 
+![Public Comps With a Private Discount](../docs/charts/14-1-comps-bridge.svg)
+
+*The 15% private discount takes 132 off the peer-based value before cash is added back.*
+
 | Peer group | EV/EBITDA | Story it supports |
 |---|---|---|
 | Online gaming | 6x | Downside view for a buyer |
@@ -288,6 +296,10 @@ Year 5 revenue growth is 20% and the terminal growth is 3%. The fade is 3 points
 | 8 | 11.0% | 42% | 444.1 | 130.2 |
 | 9 | 8.0% | 41% | 479.6 | 139.1 |
 | 10 | 5.0% | 40% | 503.6 | 144.5 |
+
+![Unlevered FCF as Growth Fades](../docs/charts/14-1-fcf-path.svg)
+
+*Cash flow keeps rising but at a slowing pace as growth fades toward a terminal rate.*
 
 Assumptions behind the FCF column: 25% tax on EBIT, D&A 3% of revenue, capex 3.5% of revenue, and a working capital outflow of 17% of the revenue increase. Year-10 FCF growth is about 4%, close to the revenue growth.
 
@@ -344,6 +356,10 @@ Sensitivity to the diversification adjustment (same inputs):
 | 0% (fully undiversified buyer) | about 17.5% |
 | 25% | about 14.1% |
 | 50% | about 10.8% |
+
+![WACC by Buyer Diversification](../docs/charts/14-1-wacc-diversification.svg)
+
+*A fully undiversified buyer needs a discount rate several points higher than a diversified one.*
 
 > [!TIP]
 > Interview angle: "Why does the buyer's diversification change the discount rate?" Because beta measures only the extra risk a stock adds to a diversified portfolio. A concentrated owner feels the full risk, so the right rate for that owner is higher.
@@ -418,6 +434,10 @@ The total business value sits in a fairly narrow range across methods, because t
 | Precedent transactions, no discount | 2,600 | 3,300 | Control premium included |
 | DCF, reverse merger discount rate | 2,800 | 3,400 | Lower discount rate |
 | DCF, private buyer discount rate | 2,200 | 2,700 | Higher discount rate |
+
+![Valuation Football Field](../docs/charts/14-1-valuation-football.svg)
+
+*The reverse merger overlap sits around 2,800 to 3,000, and the highest bar is not the answer.*
 
 Read across the methods: the overlap for a reverse merger case is about 2,800 to 3,000, and the blended midpoint is around 2,900. Under a private buyer case the DCF drops, so the blended answer falls to about 2,400 to 2,600.
 

@@ -1,0 +1,2 @@
+{"type":"bar","title":"Minimum EBITDA Covenant Test","subtitle":"$2,000M senior debt against a 4.0x maximum leverage covenant","source":"Module 15, Part 1, made-up numbers","fmt":{"prefix":"$","suffix":"M","decimals":0},
+"categories":["Required minimum","Actual, base","Actual, downside"],"series":[{"name":"EBITDA","values":[500,700,450]}]}

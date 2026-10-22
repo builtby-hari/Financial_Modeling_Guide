@@ -1,0 +1,38 @@
+{
+ "type": "bar",
+ "title": "Enterprise Value by Method",
+ "subtitle": "Comps average, DCF and blended EV for each company",
+ "source": "Module 11, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 1
+ },
+ "categories": [
+  "Parent",
+  "Spinco"
+ ],
+ "series": [
+  {
+   "name": "Comps average",
+   "values": [
+    165,
+    230
+   ]
+  },
+  {
+   "name": "DCF",
+   "values": [
+    150,
+    260
+   ]
+  },
+  {
+   "name": "Blended",
+   "values": [
+    157.5,
+    245
+   ]
+  }
+ ]
+}

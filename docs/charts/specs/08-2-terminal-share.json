@@ -1,0 +1,30 @@
+{
+ "type": "stacked",
+ "title": "Terminal Value Share of EV",
+ "subtitle": "Present values by terminal method, $ millions",
+ "source": "Module 08, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "categories": [
+  "Multiples method",
+  "Perpetuity method"
+ ],
+ "series": [
+  {
+   "name": "PV of forecast cash flows",
+   "values": [
+    800,
+    800
+   ]
+  },
+  {
+   "name": "PV of terminal value",
+   "values": [
+    1836,
+    1963
+   ]
+  }
+ ]
+}

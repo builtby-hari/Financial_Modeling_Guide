@@ -1,0 +1,36 @@
+{
+ "type": "football",
+ "title": "Value per Share by Method",
+ "subtitle": "Minimum to maximum, current price 62",
+ "source": "Module 07, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "rows": [
+  {
+   "label": "EV / EBITDA",
+   "low": 40,
+   "high": 84
+  },
+  {
+   "label": "EV / revenue",
+   "low": 35,
+   "high": 75
+  },
+  {
+   "label": "P / E",
+   "low": 38,
+   "high": 80
+  },
+  {
+   "label": "DCF (price vs margin)",
+   "low": 30,
+   "high": 90
+  }
+ ],
+ "marker": {
+  "label": "Current price",
+  "value": 62
+ }
+}

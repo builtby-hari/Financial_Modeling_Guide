@@ -1,0 +1,43 @@
+{
+ "type": "waterfall",
+ "title": "Year 1 Unlevered Free Cash Flow",
+ "subtitle": "From NOPAT to UFCF, $ millions",
+ "source": "Module 08, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "NOPAT",
+   "value": 119,
+   "total": true
+  },
+  {
+   "label": "D&A",
+   "value": 170
+  },
+  {
+   "label": "Deferred taxes",
+   "value": -30
+  },
+  {
+   "label": "Working capital",
+   "value": -10
+  },
+  {
+   "label": "Capex",
+   "value": -20
+  },
+  {
+   "label": "Intangible purchases",
+   "value": -50
+  },
+  {
+   "label": "UFCF",
+   "value": 179,
+   "total": true
+  }
+ ]
+}

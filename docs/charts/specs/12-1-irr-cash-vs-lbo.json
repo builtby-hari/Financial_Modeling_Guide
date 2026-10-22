@@ -1,0 +1,23 @@
+{
+ "type": "bar",
+ "title": "IRR: All Cash vs Leveraged Purchase",
+ "subtitle": "Same property, same rent, five-year hold",
+ "source": "Module 12, Part 1, made-up numbers",
+ "fmt": {
+  "suffix": "%",
+  "decimals": 1
+ },
+ "categories": [
+  "All cash",
+  "25% equity, 75% debt"
+ ],
+ "series": [
+  {
+   "name": "IRR",
+   "values": [
+    11.5,
+    23
+   ]
+  }
+ ]
+}

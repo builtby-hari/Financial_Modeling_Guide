@@ -1,0 +1,25 @@
+{
+ "type": "bar",
+ "title": "Value to FCF by Growth Rate",
+ "subtitle": "10% discount rate, next-year FCF of 100",
+ "source": "Module 06, made-up numbers",
+ "fmt": {
+  "suffix": "x",
+  "decimals": 1
+ },
+ "categories": [
+  "0% growth",
+  "3% growth",
+  "5% growth"
+ ],
+ "series": [
+  {
+   "name": "Value / FCF",
+   "values": [
+    10.0,
+    14.3,
+    20.0
+   ]
+  }
+ ]
+}

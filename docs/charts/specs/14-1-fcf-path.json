@@ -1,0 +1,2 @@
+{"type":"bar","title":"Unlevered FCF as Growth Fades","subtitle":"Years 5 to 10, growth fading from 20% to 5%","source": "Module 14, Part 1, made-up numbers",
+"fmt":{"prefix":"$","suffix":"M","decimals":1},"categories":["Year 5","Year 6","Year 7","Year 8","Year 9","Year 10"],"series":[{"name":"Unlevered FCF","values":[91.3,105.4,118.7,130.2,139.1,144.5]}]}

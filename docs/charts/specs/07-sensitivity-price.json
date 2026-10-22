@@ -1,0 +1,43 @@
+{
+ "type": "heatmap",
+ "title": "Implied Share Price Sensitivity",
+ "subtitle": "WACC against terminal growth, current price 60",
+ "source": "Module 07, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "rows": [
+  "8.0%",
+  "8.5%",
+  "9.0%"
+ ],
+ "cols": [
+  "0.5%",
+  "1.0%",
+  "1.5%"
+ ],
+ "row_title": "WACC",
+ "col_title": "Terminal growth",
+ "values": [
+  [
+   52,
+   58,
+   66
+  ],
+  [
+   47,
+   52,
+   58
+  ],
+  [
+   43,
+   47,
+   52
+  ]
+ ],
+ "base": [
+  1,
+  1
+ ]
+}

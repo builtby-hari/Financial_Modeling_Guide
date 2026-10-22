@@ -101,6 +101,10 @@ Net income          = Pre-tax income - Taxes
 
 Gross margin is 90 percent, operating margin is 20 percent and net margin is 15 percent. Course sales are high margin because the product costs almost nothing to deliver. The coaching line is low margin because a person's time is the cost.
 
+![Tutoring Revenue to Net Income](../docs/charts/02-1-income-bridge.svg)
+
+*Operating expenses take the biggest bite out of revenue before anything reaches net income.*
+
 > [!TIP]
 > **Beyond the basics.** The 25 percent tax rate is a round placeholder for a blended effective rate. Real effective rates move with credits, foreign income and one-time items, so always check the tax footnote for a real company. Also, "revenue" recognition is not always this simple. Subscription and multi-year contracts often need revenue spread over time, which is where deferred revenue comes in (lesson 2.5).
 
@@ -133,6 +137,10 @@ Days sales out      = AR / Revenue x 365
 | Cumulative cash from the sale | | (100) | 300 |
 
 In Year 2, net income rises by 300 but cash flow falls by 100 because AR absorbed the full 400. Cash taxes of 100 went out, and no customer money came in. When the customer pays in Year 3, AR falls by 400, cash flow rises by 400, and the cumulative cash effect is the 300 of after-tax profit.
+
+![A 400 Credit Sale: Profit vs Cash](../docs/charts/02-1-ar-ni-vs-cash.svg)
+
+*Profit shows up in Year 2 but the cash arrives in Year 3.*
 
 > [!TIP]
 > **Beyond the basics.** Analysts check AR against revenue using days sales outstanding (DSO). If DSO jumps from 40 to 70 days, either customers are paying slower, or the company is stuffing the channel with sales it may not collect, which is a classic red flag. Watch for AR growing faster than revenue. Also, a large customer on 90-day terms is a credit risk, so allowances for doubtful accounts (a contra asset) can matter too.
@@ -271,6 +279,10 @@ The sale step shows why the inventory line matters. Net income for the sale is 2
 | Gap between cash flow and net income | -200 |
 
 Profit looks good, but cash is down 125 because the company is funding customers and stock. These timing items may not reverse until early the next year.
+
+![Profit Up, Cash Down](../docs/charts/02-1-cfo-bridge.svg)
+
+*Funding receivables and inventory turns a 75 profit into negative operating cash flow.*
 
 > [!TIP]
 > **Beyond the basics.** The simple example hides the inventory cost method. Under FIFO, LIFO or weighted average, the same purchases can produce different COGS and different inventory balances. When inflation is high, LIFO tends to show higher COGS and lower taxes. Also, a "write-down" of obsolete stock is a non-cash charge that can move COGS without any cash changing hands. Keep an eye on days inventory outstanding (DIO) rising faster than sales. It is one of the earliest warning signs of slowing demand.
@@ -559,6 +571,10 @@ DTL (end)                 = DTL (begin) + Deferred income taxes
 | DTL, end of year | 12.5 | 12.5 | 0 | |
 
 Year 1 shows more tax deferred, so cash flow is 12.5 higher than net income. In Year 3 the reversal takes cash back. Over three years the total cash tax equals the total book tax (150), so nothing is lost. The company only borrowed from the government on timing.
+
+![Book Tax vs Cash Tax](../docs/charts/02-1-book-vs-cash-tax.svg)
+
+*Cash tax runs below book tax in Year 1 and catches up by Year 3.*
 
 > [!TIP]
 > **Beyond the basics.** A DTL that keeps growing is common for a growing company that keeps buying assets, because tax depreciation keeps getting ahead of book depreciation. Analysts often treat the DTL as quasi-equity, or as a debt-like item in some valuations, but there is no agreed rule. Check whether the deferred tax line is driven by depreciation, leases or other items. In the cash taxes section of a filing, the company often gives a cash tax paid figure that you can compare with the book tax number.

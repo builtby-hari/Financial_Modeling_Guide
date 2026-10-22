@@ -88,6 +88,10 @@ flowchart TD
 | Base | $65 | +30% | Headline valuation |
 | Downside | $44 | -12% | Bear case and worst-case price |
 
+![Value per Share by Scenario](../docs/charts/09-scenario-values.svg)
+
+*Even the downside case sits only modestly below the $50 price, while the base and upside cases sit well above it.*
+
 **Factor impact (made-up numbers).**
 
 | Factor changed | Base implied upside | New implied upside | Impact |
@@ -96,6 +100,10 @@ flowchart TD
 | Generic entry one year earlier | 30% | 27% | -3 points, not worth a line |
 | Competitor takes 5% more share | 30% | 22% | -8 points, worth a risk bullet |
 | Trial fails (probability to 0%) | 30% | 20% | -10 points, worth a catalyst bullet |
+
+![Implied Upside After Each Risk](../docs/charts/09-risk-sensitivity.svg)
+
+*A failed trial and a competitor taking share cut the implied upside the most, so they deserve bullets in the pitch.*
 
 > [!TIP]
 > This is often called "more art than science," and that is the right framing. The numbers are only as good as the single-input change you chose. A better habit is to show the sensitivity as a range and say which assumption drives it. Interviewers like candidates who can say "this factor matters because the model is most sensitive to the share assumption, which I could not verify."
@@ -262,6 +270,10 @@ The lesson reviews the pitch from the previous lesson as a reviewer would. It li
 | + Net borrowing | 100 |
 | **Levered FCF** | **450** |
 
+![Levered Free Cash Flow](../docs/charts/09-levered-fcf.svg)
+
+*Net borrowing is added back, so levered FCF depends on the financing plan as well as operations.*
+
 > [!TIP]
 > The usual verdict is blunt: "99% of the time, it's not a good idea." In practice, a levered DCF is sometimes used for equity REITs, where debt and equity issuance are predictable and the dividend policy is set by rules. It can also be useful in restructuring, where the capital structure changes a lot. For a typical company, use an unlevered DCF and compute equity value by subtracting net debt, or use a DDM for a company that pays regular dividends.
 
@@ -391,6 +403,10 @@ PV per share         = future price / (1 + cost of equity)^n + PV(dividends per 
 | Goodwill | 50 | 0% | 0.0 |
 | **Total** | **1,000** | | **1,087.5** |
 
+![Book vs Recovery-Adjusted Assets](../docs/charts/09-liquidation.svg)
+
+*Net PP&E is worth more than book in this example, while inventory and goodwill are worth much less.*
+
 **Waterfall example (made-up numbers).** Net proceeds are $475m. Senior secured debt is $250m, recovered 100%, leaving $225m. Senior unsecured is $200m, recovered 100%, leaving $25m. Subordinated notes are $50m, recovered 50%. The equity gets nothing.
 
 > [!TIP]
@@ -490,6 +506,10 @@ Implied share price = equity value / diluted shares
 | Less net debt and minorities | | | (2,300) |
 | Equity value | | | 10,300 |
 | Per share (100m shares) | | | $103 |
+
+![Sum of the Parts to Equity Value](../docs/charts/09-sotp.svg)
+
+*The batteries segment supplies most of the value, and overhead and net debt take back a large part of it.*
 
 **Recap of the module's valuation methods.** A quick comparison, useful as a one-page reference:
 

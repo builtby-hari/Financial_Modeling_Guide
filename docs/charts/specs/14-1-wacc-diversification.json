@@ -1,0 +1,2 @@
+{"type":"bar","title":"WACC by Buyer Diversification","subtitle":"A more diversified buyer accepts a lower rate","source": "Module 14, Part 1, made-up numbers",
+"fmt":{"suffix":"%","decimals":1},"categories":["0% adjustment","25% adjustment","50% adjustment"],"series":[{"name":"WACC","values":[17.5,14.1,10.8]}]}

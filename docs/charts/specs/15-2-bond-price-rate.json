@@ -1,0 +1,2 @@
+{"type":"line","title":"Bond Price by Market Rate","subtitle":"10-year, 6% coupon bond per $1,000 of par","source":"Module 15, Part 2, made-up numbers","fmt":{"prefix":"$","decimals":0},"x_label":"Market rate (%)","tight":true,
+"x":["5.0","5.5","6.0","6.5","7.0","7.5"],"series":[{"name":"Price","values":[1077,1038,1000,964,930,897]}]}

@@ -187,6 +187,10 @@ Debt is refinanced in nearly every deal, so the "assume or replace existing debt
 | Advisory (1% of 300) plus legal | 5.0 | | |
 | **Total** | **370.2** | **Total** | **370.2** |
 
+![Sources and Uses at Close](../docs/charts/12-2-sources-uses.svg)
+
+*Sponsor equity is the plug that makes sources equal the 370.2 of uses.*
+
 **Operating drivers.** The historical ratios are set up first so the projections have a base. The main drivers in this kind of model:
 
 - Average patients (average of opening and closing count), since price paid per patient follows the average, not the year-end number.
@@ -460,6 +464,10 @@ This is the economically correct way to see it. The option cash is added to the 
 | Sponsor MOIC (262.4 / 150.2) | 1.75x |
 | Sponsor IRR (1.75 ^ (1/5) - 1) | about 11.8% |
 
+![Exit Enterprise Value to Equity](../docs/charts/12-2-exit-equity.svg)
+
+*Debt takes 145 of the 420 exit value, which leaves 280 for equity holders.*
+
 Simpler dilution, option percent x pot, changes the answer by about a percent. The exact method is better, but the instructions were loose on this point, so state the method you chose.
 
 **Step 7: Sensitivity table.** Build a two-way data table (What-If Analysis in Excel) with:
@@ -506,6 +514,10 @@ The three pieces add back to the total equity gain (exit equity minus sponsor eq
 | Enterprise value gain | Sum of the two above (420 - 330) | 90.0 |
 | Total equity gain | 280.0 - 150.2 | 129.8 |
 | Debt paydown, cash and other | 129.8 - 90.0 | 39.8 |
+
+![Where the Equity Gain Comes From](../docs/charts/12-2-value-creation.svg)
+
+*EBITDA growth more than covers the multiple contraction, and debt paydown adds the rest.*
 
 The contraction in this example is intentional. It shows that a deal can still work when the exit multiple is below the entry multiple, as long as EBITDA growth and deleveraging carry it. In the case itself, the exit multiple was above the entry multiple, so multiple expansion was a positive driver.
 
@@ -1391,6 +1403,10 @@ Pair EBITDA with debt that includes leases, because under IFRS the lease cost is
 | EBITDA / interest on debt | 1.6x | 2.1x | 2.8x |
 | Cumulative paydown % of initial debt | 2% | 8% | 20% |
 
+![Leverage Falls Slowly](../docs/charts/12-2-credit-stats.svg)
+
+*Even by year 5 total debt with leases is still above 6x EBITDA.*
+
 A coverage ratio below about 2x, combined with little paydown, says the company cannot take much more leverage. That is the central finding of the credit section.
 
 **Returns: exit value.** Exit value is computed in each year, so the sponsor can see returns for an exit at any point, not just the final year.
@@ -1489,6 +1505,10 @@ Set the column range so the base case sits in the middle and the range extends r
 | Upside | 24% | 30% | 35% |
 | Base | 14% | 20% | 25% |
 | Downside | -6% | 0% | 5% |
+
+![Sponsor IRR by Scenario and Exit Multiple](../docs/charts/12-2-irr-sensitivity.svg)
+
+*The scenario moves IRR far more than the exit multiple does, and the downside can lose money.*
 
 **How to read the tables.**
 

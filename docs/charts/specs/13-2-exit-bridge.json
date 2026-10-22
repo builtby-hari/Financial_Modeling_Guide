@@ -1,0 +1,3 @@
+{"type":"waterfall","title":"Base Case Exit Equity","subtitle":"Year 5 EBITDA of 190 at 14.0x","source": "Module 13, Part 2, made-up numbers",
+"fmt":{"prefix":"$","suffix":"M","decimals":0},
+"steps":[{"label":"Exit EV","value":2660,"total":true},{"label":"Net debt","value":-1050},{"label":"Exit equity","value":1610,"total":true}]}

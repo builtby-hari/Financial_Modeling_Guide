@@ -1,0 +1,27 @@
+{
+ "type": "bar",
+ "title": "Implied Upside After Each Risk",
+ "subtitle": "Base implied upside is 30%",
+ "source": "Module 09, made-up numbers",
+ "fmt": {
+  "suffix": "%",
+  "decimals": 0
+ },
+ "categories": [
+  "Base",
+  "Generic one year earlier",
+  "Competitor +5% share",
+  "Trial fails"
+ ],
+ "series": [
+  {
+   "name": "Implied upside",
+   "values": [
+    30,
+    27,
+    22,
+    20
+   ]
+  }
+ ]
+}

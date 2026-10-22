@@ -1,0 +1,2 @@
+{"type":"stacked","title":"Convertible Liability Accreting to Face","subtitle":"Carrying value plus the unaccreted discount always equals the $1,000M face","source":"Module 15, Part 1, made-up numbers","fmt":{"prefix":"$","suffix":"M","decimals":0},
+"categories":["Y0","Y1","Y2","Y3","Y4","Y5"],"series":[{"name":"Liability carrying value","values":[880,904,928,952,976,1000]},{"name":"Unaccreted discount","values":[120,96,72,48,24,0]}]}

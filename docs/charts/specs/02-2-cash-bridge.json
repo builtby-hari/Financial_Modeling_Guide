@@ -1,0 +1,2 @@
+{"type":"waterfall","title":"Net Income to Change in Cash","subtitle":"One projection year, $ millions","source":"Module 02, Part 2, made-up numbers",
+"fmt":{"decimals":1},"steps":[{"label":"Net income","value":83.7,"total":true},{"label":"D&A","value":31.5},{"label":"Working capital","value":5},{"label":"Capex","value":-100},{"label":"Debt repayment","value":-10},{"label":"Dividends","value":-33.5},{"label":"Change in cash","value":-23.3,"total":true}]}

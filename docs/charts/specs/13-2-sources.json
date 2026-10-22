@@ -1,0 +1,2 @@
+{"type":"bar","title":"Where the Money Comes From","subtitle":"Total sources of 1,370, sponsor equity is the plug","source": "Module 13, Part 2, made-up numbers",
+"fmt":{"prefix":"$","suffix":"M","decimals":0},"categories":["Term loan","Sub notes","Excess cash","Sponsor equity"],"series":[{"name":"Amount","values":[450,300,60,560]}]}

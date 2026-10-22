@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 274" width="760" height="274" role="img" aria-label="Implied Share Price Sensitivity">
+<rect x="1" y="1" width="758" height="272" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Implied Share Price Sensitivity</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">WACC against terminal growth, current price 60</text>
+<text x="441.0" y="110.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="middle" font-weight="bold">Terminal growth</text>
+<text x="146.0" y="176.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="middle" font-weight="bold" transform="rotate(-90 146.0 176.0)">WACC</text>
+<text x="291.0" y="246.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">0.5%</text>
+<text x="441.0" y="246.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">1.0%</text>
+<text x="591.0" y="246.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">1.5%</text>
+<text x="208.0" y="144.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="end" font-weight="normal">8.0%</text>
+<rect x="216.0" y="122.0" width="148.0" height="34.0" rx="3" fill="#98c8c3"/>
+<text x="291.0" y="144.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$52</text>
+<rect x="366.0" y="122.0" width="148.0" height="34.0" rx="3" fill="#5da59f"/>
+<text x="441.0" y="144.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" font-weight="normal">$58</text>
+<rect x="516.0" y="122.0" width="148.0" height="34.0" rx="3" fill="#0f766e"/>
+<text x="591.0" y="144.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" font-weight="normal">$66</text>
+<text x="208.0" y="180.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="end" font-weight="normal">8.5%</text>
+<rect x="216.0" y="158.0" width="148.0" height="34.0" rx="3" fill="#c9e6e2"/>
+<text x="291.0" y="180.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$47</text>
+<rect x="366.0" y="158.0" width="148.0" height="34.0" rx="3" fill="#98c8c3"/>
+<text x="441.0" y="180.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$52</text>
+<rect x="516.0" y="158.0" width="148.0" height="34.0" rx="3" fill="#5da59f"/>
+<text x="591.0" y="180.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#ffffff" text-anchor="middle" font-weight="normal">$58</text>
+<text x="208.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="end" font-weight="normal">9.0%</text>
+<rect x="216.0" y="194.0" width="148.0" height="34.0" rx="3" fill="#f0fdfa"/>
+<text x="291.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$43</text>
+<rect x="366.0" y="194.0" width="148.0" height="34.0" rx="3" fill="#c9e6e2"/>
+<text x="441.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$47</text>
+<rect x="516.0" y="194.0" width="148.0" height="34.0" rx="3" fill="#98c8c3"/>
+<text x="591.0" y="216.0" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$52</text>
+<rect x="365.0" y="157.0" width="150.0" height="36.0" rx="3" fill="none" stroke="#1f3a5f" stroke-width="2.5"/>
+<text x="740.0" y="262.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 07, made-up numbers</text>
+</svg>

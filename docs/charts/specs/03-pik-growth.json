@@ -1,0 +1,3 @@
+{"type":"line","title":"PIK Debt Face Value at 5%","subtitle":"Accrued interest compounds onto a 100 loan","source":"Module 03, made-up numbers",
+"fmt":{"decimals":1},"tight":true,"markers":true,"x":["Year 0","Year 1","Year 2","Year 3","Year 4","Year 5"],
+"series":[{"name":"Face value","values":[100,105,110.25,115.76,121.55,127.63]}]}

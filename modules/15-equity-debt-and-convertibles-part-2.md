@@ -186,6 +186,10 @@ Target: $1.0B raised, 90% primary, 2.0% spread on primary, $5M other fees. Pre-d
 
 The equity cost climbs with the discount, but in this example it stays under the cost of debt. That is the kind of comparison the lesson uses to recommend equity or a convertible over straight debt.
 
+![After-Tax Cost of Each Funding Source](../docs/charts/15-2-follow-on-cost.svg)
+
+*Equity cost rises with the discount but stays below the after-tax cost of debt.*
+
 ```mermaid
 xychart-beta
     title "Share of company sold by offer discount"
@@ -232,6 +236,10 @@ A 10-year, $1,000 par bond with a 6% annual coupon, bought at par on the issue d
 - YTM when you buy at $964 is the rate that sets that price to the cash flows. It is 6.5%, the market rate. This is the rule that the YTM equals the market rate when the bond is priced fairly.
 - Quick approximation: (coupon + (par - price) / years) / ((par + price) / 2) = (60 + 3.6) / 982 = about 6.5%. The shortcut matches the exact answer closely.
 - Redemption at 99% of par instead of 100% lowers the price by about $5, from $964 to $959.
+
+![Bond Price by Market Rate](../docs/charts/15-2-bond-price-rate.svg)
+
+*Price falls as the market rate rises, and the curve bends so that each step down in rate adds more than each step up takes away.*
 
 ```mermaid
 xychart-beta
@@ -488,6 +496,10 @@ Proposal: four-year maturity, 13% coupon ($26M a year), no call for two years, a
 - Increasing the equity grant from 15% to 25% lifts the yield back to about 30.8%. That is above the baseline and reflects the extra time and risk.
 - The sensible structure would be a flat redemption price (for example 110) with an equity share that steps up each six months, from 10% to 25%. That gives the company a reason to call early and gives investors a rising yield if it waits.
 
+![Yield to Exit by Scenario](../docs/charts/15-2-yield-to-exit.svg)
+
+*Raising the equity grant from 15% to 25% lifts the proposal above the existing bond's yield.*
+
 ```mermaid
 flowchart TD
     A[Distressed issuer needs extension] --> B[Project cash flows of existing bond]
@@ -666,6 +678,10 @@ Option piece, using Black-Scholes on one share:
 - A 30% stock volatility reduces the option cost but does not remove the gap, so the conversion premium is a lever to test. A larger premium lowers the option value and makes the deal cheaper for the issuer.
 - The sensitivity to volatility is the main message: the same instrument can look fairly priced or very rich depending on the volatility assumption.
 
+![Convertible Value by Volatility](../docs/charts/15-2-convert-vol.svg)
+
+*The same instrument looks fairly priced or very rich depending on the volatility assumption.*
+
 ```mermaid
 xychart-beta
     title "Implied convertible value per 100 face by volatility"
@@ -713,6 +729,10 @@ xychart-beta
 | $40 | $1,000 (at conversion price) |
 | $50 | $1,250 |
 | $60 | $1,500 |
+
+![Convertible Payoff at Maturity](../docs/charts/15-2-convert-payoff.svg)
+
+*The payoff is flat at the par floor up to the conversion price and then rises one-for-one with the stock.*
 
 **Call spread example (made-up numbers):**
 

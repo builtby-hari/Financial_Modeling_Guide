@@ -1,0 +1,31 @@
+{
+ "type": "bar",
+ "title": "IRR by Exit Revenue Multiple",
+ "subtitle": "4-year hold, 500 invested for a 10% stake, net cash of 200",
+ "source": "Module 04, made-up numbers",
+ "fmt": {
+  "suffix": "%",
+  "decimals": 1
+ },
+ "categories": [
+  "6x",
+  "8x",
+  "10x",
+  "12x",
+  "14x",
+  "16x"
+ ],
+ "series": [
+  {
+   "name": "IRR",
+   "values": [
+    5.5,
+    13.2,
+    19.5,
+    25.0,
+    29.8,
+    34.2
+   ]
+  }
+ ]
+}

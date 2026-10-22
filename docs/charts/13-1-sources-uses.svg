@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Sources and Uses">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Sources and Uses</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Sponsor equity is the plug at 1,585</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Purchase EV</text>
+<rect x="147.2" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="165.2" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Fees, OID and WC top-up</text>
+<rect x="352.79999999999995" y="78" width="12" height="12" rx="2" fill="#94a3b8"/>
+<text x="370.8" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Term loan</text>
+<rect x="457.59999999999997" y="78" width="12" height="12" rx="2" fill="#0e7490"/>
+<text x="475.6" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Senior notes</text>
+<rect x="584.0" y="78" width="12" height="12" rx="2" fill="#64748b"/>
+<text x="602.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Sponsor equity</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0</text>
+<line x1="78" x2="732" y1="324.8" y2="324.8" stroke="#e2e8f0"/>
+<text x="70.0" y="328.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">500</text>
+<line x1="78" x2="732" y1="273.6" y2="273.6" stroke="#e2e8f0"/>
+<text x="70.0" y="277.6" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">1,000</text>
+<line x1="78" x2="732" y1="222.4" y2="222.4" stroke="#e2e8f0"/>
+<text x="70.0" y="226.4" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">1,500</text>
+<line x1="78" x2="732" y1="171.2" y2="171.2" stroke="#e2e8f0"/>
+<text x="70.0" y="175.2" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">2,000</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">2,500</text>
+<rect x="209.5" y="171.2" width="64.0" height="204.8" fill="#1f3a5f"/>
+<rect x="209.5" y="162.5" width="64.0" height="8.7" fill="#14b8a6"/>
+<rect x="209.5" y="162.5" width="64.0" height="0.0" fill="#94a3b8"/>
+<rect x="209.5" y="162.5" width="64.0" height="0.0" fill="#0e7490"/>
+<rect x="209.5" y="162.5" width="64.0" height="0.0" fill="#64748b"/>
+<text x="241.5" y="157.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">2,085</text>
+<rect x="536.5" y="376.0" width="64.0" height="0.0" fill="#1f3a5f"/>
+<rect x="536.5" y="376.0" width="64.0" height="0.0" fill="#14b8a6"/>
+<rect x="536.5" y="340.2" width="64.0" height="35.8" fill="#94a3b8"/>
+<rect x="536.5" y="324.8" width="64.0" height="15.4" fill="#0e7490"/>
+<rect x="536.5" y="162.5" width="64.0" height="162.3" fill="#64748b"/>
+<text x="568.5" y="157.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">2,085</text>
+<text x="241.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Uses</text>
+<text x="568.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Sources</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 13, Part 1, made-up numbers</text>
+</svg>

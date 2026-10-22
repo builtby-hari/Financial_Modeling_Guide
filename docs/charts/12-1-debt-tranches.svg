@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Debt Balances by Tranche">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Debt Balances by Tranche</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Senior debt falls while the notes accrue</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Senior bank debt</text>
+<rect x="183.2" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="201.2" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Seller note</text>
+<rect x="302.4" y="78" width="12" height="12" rx="2" fill="#94a3b8"/>
+<text x="320.4" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Shareholder loan</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$0.0M</text>
+<line x1="78" x2="732" y1="290.7" y2="290.7" stroke="#e2e8f0"/>
+<text x="70.0" y="294.7" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$100.0M</text>
+<line x1="78" x2="732" y1="205.3" y2="205.3" stroke="#e2e8f0"/>
+<text x="70.0" y="209.3" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$200.0M</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$300.0M</text>
+<rect x="100.5" y="248.0" width="64.0" height="128.0" fill="#1f3a5f"/>
+<rect x="100.5" y="205.3" width="64.0" height="42.7" fill="#14b8a6"/>
+<rect x="100.5" y="162.7" width="64.0" height="42.7" fill="#94a3b8"/>
+<text x="132.5" y="157.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$250.0M</text>
+<rect x="209.5" y="266.2" width="64.0" height="109.8" fill="#1f3a5f"/>
+<rect x="209.5" y="219.7" width="64.0" height="46.5" fill="#14b8a6"/>
+<rect x="209.5" y="171.9" width="64.0" height="47.8" fill="#94a3b8"/>
+<text x="241.5" y="166.9" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$239.2M</text>
+<rect x="318.5" y="290.1" width="64.0" height="85.9" fill="#1f3a5f"/>
+<rect x="318.5" y="239.4" width="64.0" height="50.7" fill="#14b8a6"/>
+<rect x="318.5" y="185.9" width="64.0" height="53.5" fill="#94a3b8"/>
+<text x="350.5" y="180.9" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$222.8M</text>
+<rect x="427.5" y="318.6" width="64.0" height="57.4" fill="#1f3a5f"/>
+<rect x="427.5" y="263.4" width="64.0" height="55.2" fill="#14b8a6"/>
+<rect x="427.5" y="203.5" width="64.0" height="59.9" fill="#94a3b8"/>
+<text x="459.5" y="198.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$202.2M</text>
+<rect x="536.5" y="351.8" width="64.0" height="24.2" fill="#1f3a5f"/>
+<rect x="536.5" y="291.6" width="64.0" height="60.2" fill="#14b8a6"/>
+<rect x="536.5" y="224.5" width="64.0" height="67.1" fill="#94a3b8"/>
+<text x="568.5" y="219.5" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$177.5M</text>
+<rect x="645.5" y="376.0" width="64.0" height="0.0" fill="#1f3a5f"/>
+<rect x="645.5" y="310.5" width="64.0" height="65.5" fill="#14b8a6"/>
+<rect x="645.5" y="235.4" width="64.0" height="75.1" fill="#94a3b8"/>
+<text x="677.5" y="230.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$164.8M</text>
+<text x="132.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 0</text>
+<text x="241.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 1</text>
+<text x="350.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 2</text>
+<text x="459.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 3</text>
+<text x="568.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 4</text>
+<text x="677.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 5</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 12, Part 1, made-up numbers</text>
+</svg>

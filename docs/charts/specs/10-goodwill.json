@@ -1,0 +1,50 @@
+{
+ "type": "waterfall",
+ "title": "Building Goodwill in a Deal",
+ "subtitle": "Purchase price to goodwill created, $ millions",
+ "source": "Module 10, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 1
+ },
+ "steps": [
+  {
+   "label": "Purchase equity",
+   "value": 2000,
+   "total": true
+  },
+  {
+   "label": "Target book equity",
+   "value": -900
+  },
+  {
+   "label": "Old goodwill written off",
+   "value": 300
+  },
+  {
+   "label": "PP&E write-up",
+   "value": -40
+  },
+  {
+   "label": "Definite intangibles",
+   "value": -350
+  },
+  {
+   "label": "Indefinite intangibles",
+   "value": -140
+  },
+  {
+   "label": "Old DTL written down",
+   "value": -20
+  },
+  {
+   "label": "New DTL",
+   "value": 132.5
+  },
+  {
+   "label": "Goodwill created",
+   "value": 982.5,
+   "total": true
+  }
+ ]
+}

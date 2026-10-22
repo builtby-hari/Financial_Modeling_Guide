@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Synergies by Year">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Synergies by Year</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Pre-tax, $ millions</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Cost savings</text>
+<rect x="154.4" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="172.4" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Net revenue synergy</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$0.0M</text>
+<line x1="78" x2="732" y1="312.0" y2="312.0" stroke="#e2e8f0"/>
+<text x="70.0" y="316.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$20.0M</text>
+<line x1="78" x2="732" y1="248.0" y2="248.0" stroke="#e2e8f0"/>
+<text x="70.0" y="252.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$40.0M</text>
+<line x1="78" x2="732" y1="184.0" y2="184.0" stroke="#e2e8f0"/>
+<text x="70.0" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$60.0M</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$80.0M</text>
+<rect x="155.0" y="280.0" width="64.0" height="96.0" fill="#1f3a5f"/>
+<rect x="155.0" y="265.6" width="64.0" height="14.4" fill="#14b8a6"/>
+<text x="187.0" y="260.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$34.5M</text>
+<rect x="373.0" y="216.0" width="64.0" height="160.0" fill="#1f3a5f"/>
+<rect x="373.0" y="187.2" width="64.0" height="28.8" fill="#14b8a6"/>
+<text x="405.0" y="182.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$59.0M</text>
+<rect x="591.0" y="184.0" width="64.0" height="192.0" fill="#1f3a5f"/>
+<rect x="591.0" y="140.8" width="64.0" height="43.2" fill="#14b8a6"/>
+<text x="623.0" y="135.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$73.5M</text>
+<text x="187.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 1</text>
+<text x="405.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 2</text>
+<text x="623.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 3</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 10, made-up numbers</text>
+</svg>

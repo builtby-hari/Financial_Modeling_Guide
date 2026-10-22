@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Unrisked vs Risk-Adjusted Revenue">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Unrisked vs Risk-Adjusted Revenue</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Pipeline drug, 25% probability of success, $ millions</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Unrisked</text>
+<rect x="125.6" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="143.6" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Risk-adjusted</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$0.0M</text>
+<line x1="78" x2="732" y1="312.0" y2="312.0" stroke="#e2e8f0"/>
+<text x="70.0" y="316.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$100.0M</text>
+<line x1="78" x2="732" y1="248.0" y2="248.0" stroke="#e2e8f0"/>
+<text x="70.0" y="252.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$200.0M</text>
+<line x1="78" x2="732" y1="184.0" y2="184.0" stroke="#e2e8f0"/>
+<text x="70.0" y="188.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$300.0M</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$400.0M</text>
+<rect x="132.0" y="331.2" width="54.0" height="44.8" rx="2" fill="#1f3a5f"/>
+<text x="159.0" y="326.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$70.0M</text>
+<rect x="188.0" y="364.8" width="54.0" height="11.2" rx="2" fill="#14b8a6"/>
+<text x="215.0" y="359.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$17.5M</text>
+<rect x="350.0" y="257.8" width="54.0" height="118.2" rx="2" fill="#1f3a5f"/>
+<text x="377.0" y="252.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$184.7M</text>
+<rect x="406.0" y="346.4" width="54.0" height="29.6" rx="2" fill="#14b8a6"/>
+<text x="433.0" y="341.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$46.2M</text>
+<rect x="568.0" y="176.4" width="54.0" height="199.6" rx="2" fill="#1f3a5f"/>
+<text x="595.0" y="171.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$311.8M</text>
+<rect x="624.0" y="326.1" width="54.0" height="49.9" rx="2" fill="#14b8a6"/>
+<text x="651.0" y="321.1" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$77.9M</text>
+<text x="187.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Y2 (release)</text>
+<text x="405.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Y3</text>
+<text x="623.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Y4</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 08, Part 1, made-up numbers</text>
+</svg>

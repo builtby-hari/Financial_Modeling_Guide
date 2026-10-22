@@ -1,0 +1,36 @@
+{
+ "type": "football",
+ "title": "Valuation Football Field",
+ "subtitle": "Implied price per share, 25th to 75th percentile",
+ "source": "Module 08, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "rows": [
+  {
+   "label": "LTM revenue multiples",
+   "low": 22,
+   "high": 34
+  },
+  {
+   "label": "LTM EBITDA multiples",
+   "low": 26,
+   "high": 41
+  },
+  {
+   "label": "Precedent deals",
+   "low": 33,
+   "high": 44
+  },
+  {
+   "label": "DCF (downside to upside)",
+   "low": 28,
+   "high": 52
+  }
+ ],
+ "marker": {
+  "label": "Current price",
+  "value": 30
+ }
+}

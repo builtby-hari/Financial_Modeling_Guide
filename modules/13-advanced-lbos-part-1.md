@@ -123,6 +123,10 @@ Worked example with made-up numbers (base case):
 | Y1 | 105 | 21.2 | 2 | 300 | 2.82 | 41.6 | 117.3 |
 | Y2 | 110 | 21.4 | 4 | 300 | 3.55 | 43.3 | 153.7 |
 
+![Revenue Build From Tonnes and Price](../docs/charts/13-1-revenue-build.svg)
+
+*New plants and price growth together lift revenue by about 83 percent in two years.*
+
 > [!TIP]
 > **Beyond the model:** Revenue for waste businesses is usually a mix of gate fees (paid to take waste), commodity sales (recycled materials and electricity), and landfill tax pass-through. A single price-per-tonne line hides that mix. A model that ties revenue to a power price and a gate fee separately is easier to defend in a committee.
 
@@ -331,6 +335,10 @@ Worked example with made-up numbers (multiples of LTM EBITDA of 100):
 | Financing fees and OID | 35 | Senior notes | 150 | 1.5x |
 | WC top-up | 10 | Sponsor equity (plug) | 1,585 | 15.85x |
 | Total | 2,085 | Total | 2,085 | 20.85x |
+
+![Sources and Uses](../docs/charts/13-1-sources-uses.svg)
+
+*The sponsor writes the largest check, because the debt covers under a quarter of the uses.*
 
 > [!TIP]
 > **Beyond the model:** A working capital peg in a real SPA is usually a target with a true-up after close, and the adjustment can go either way. The minimum-only version here is a simplification that is common in models but less common in contracts. Know both, because interviewers ask which one you have modeled.
@@ -632,6 +640,10 @@ Worked example with made-up numbers (investment 1,000, exit in year 3):
 | Total proceeds | 910 |
 | Multiple | 0.91x |
 
+![Sponsor Proceeds in the Loss Case](../docs/charts/13-1-sponsor-proceeds.svg)
+
+*The debt repayment absorbs most of the exit value, so even with the dividend the sponsor gets back less than it put in.*
+
 The example shows a loss, which is common when the exit multiple falls and the debt is large.
 
 > [!TIP]
@@ -706,6 +718,10 @@ Worked example with made-up numbers (sponsor IRR, scenario by exit year):
 | Base | 19% | 17% | 16% |
 | Downside | 10% | 9% | 7% |
 
+![Sponsor IRR by Scenario and Exit Year](../docs/charts/13-1-irr-exit-year.svg)
+
+*Moving across scenarios changes IRR far more than moving across exit years.*
+
 Read it across: a shorter hold can raise IRR when the business is growing slowly and the multiple is falling. Read it down: the scenario matters far more than the exit year.
 
 > [!TIP]
@@ -771,6 +787,10 @@ Worked example with made-up numbers (mezzanine, base exit 16x):
 | 10x | 100% | 15% |
 | 6x | 88% | 9% |
 | 4x | 40% | 3% |
+
+![Mezzanine Recovery and IRR](../docs/charts/13-1-mezz-recovery.svg)
+
+*Recovery holds at 100% down to 10x but drops sharply by 4x.*
 
 Break-even for full recovery is somewhere between 6x and 10x, so the multiple can fall roughly 40 to 60 percent before full recovery is lost.
 

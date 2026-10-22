@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="COGS and Gross Profit by Inventory Method">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">COGS and Gross Profit by Inventory Method</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Rising costs, 20 units sold</text>
+<rect x="28" y="78" width="12" height="12" rx="2" fill="#1f3a5f"/>
+<text x="46.0" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">COGS</text>
+<rect x="96.8" y="78" width="12" height="12" rx="2" fill="#14b8a6"/>
+<text x="114.8" y="88.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="start" font-weight="normal">Gross profit</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0</text>
+<line x1="78" x2="732" y1="324.8" y2="324.8" stroke="#e2e8f0"/>
+<text x="70.0" y="328.8" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">100</text>
+<line x1="78" x2="732" y1="273.6" y2="273.6" stroke="#e2e8f0"/>
+<text x="70.0" y="277.6" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">200</text>
+<line x1="78" x2="732" y1="222.4" y2="222.4" stroke="#e2e8f0"/>
+<text x="70.0" y="226.4" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">300</text>
+<line x1="78" x2="732" y1="171.2" y2="171.2" stroke="#e2e8f0"/>
+<text x="70.0" y="175.2" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">400</text>
+<line x1="78" x2="732" y1="120.0" y2="120.0" stroke="#e2e8f0"/>
+<text x="70.0" y="124.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">500</text>
+<rect x="132.0" y="263.4" width="54.0" height="112.6" rx="2" fill="#1f3a5f"/>
+<text x="159.0" y="258.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">220</text>
+<rect x="188.0" y="181.4" width="54.0" height="194.6" rx="2" fill="#14b8a6"/>
+<text x="215.0" y="176.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">380</text>
+<rect x="350.0" y="242.9" width="54.0" height="133.1" rx="2" fill="#1f3a5f"/>
+<text x="377.0" y="237.9" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">260</text>
+<rect x="406.0" y="201.9" width="54.0" height="174.1" rx="2" fill="#14b8a6"/>
+<text x="433.0" y="196.9" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">340</text>
+<rect x="568.0" y="222.4" width="54.0" height="153.6" rx="2" fill="#1f3a5f"/>
+<text x="595.0" y="217.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">300</text>
+<rect x="624.0" y="222.4" width="54.0" height="153.6" rx="2" fill="#14b8a6"/>
+<text x="651.0" y="217.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">300</text>
+<text x="187.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">FIFO</text>
+<text x="405.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Moving average</text>
+<text x="623.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">LIFO</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 03, made-up numbers</text>
+</svg>

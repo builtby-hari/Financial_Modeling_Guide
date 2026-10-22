@@ -1,0 +1,39 @@
+{
+ "type": "heatmap",
+ "title": "IRR by Exit Multiple and Exit Year",
+ "subtitle": "Entry multiple is 9x",
+ "source": "Module 12, Part 1, made-up numbers",
+ "fmt": {
+  "suffix": "%",
+  "decimals": 0
+ },
+ "rows": [
+  "8x",
+  "9x",
+  "10x"
+ ],
+ "cols": [
+  "Year 4 exit",
+  "Year 5 exit"
+ ],
+ "row_title": "Exit multiple",
+ "col_title": "Exit year",
+ "values": [
+  [
+   18,
+   17
+  ],
+  [
+   21,
+   19
+  ],
+  [
+   25,
+   22
+  ]
+ ],
+ "base": [
+  1,
+  1
+ ]
+}

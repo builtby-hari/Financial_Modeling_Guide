@@ -1,0 +1,54 @@
+{
+ "type": "stacked",
+ "title": "Debt Balances by Tranche",
+ "subtitle": "Senior debt falls while the notes accrue",
+ "source": "Module 12, Part 1, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "suffix": "M",
+  "decimals": 1
+ },
+ "categories": [
+  "Year 0",
+  "Year 1",
+  "Year 2",
+  "Year 3",
+  "Year 4",
+  "Year 5"
+ ],
+ "series": [
+  {
+   "name": "Senior bank debt",
+   "values": [
+    150.0,
+    128.7,
+    100.7,
+    67.3,
+    28.4,
+    0.0
+   ]
+  },
+  {
+   "name": "Seller note",
+   "values": [
+    50.0,
+    54.5,
+    59.4,
+    64.7,
+    70.5,
+    76.8
+   ]
+  },
+  {
+   "name": "Shareholder loan",
+   "values": [
+    50.0,
+    56.0,
+    62.7,
+    70.2,
+    78.6,
+    88.0
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Operating Income to EBITDAR">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Operating Income to EBITDAR</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">US retailer, millions</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0</text>
+<line x1="78" x2="732" y1="320.0" y2="320.0" stroke="#e2e8f0"/>
+<text x="70.0" y="324.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">500</text>
+<line x1="78" x2="732" y1="264.0" y2="264.0" stroke="#e2e8f0"/>
+<text x="70.0" y="268.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">1,000</text>
+<line x1="78" x2="732" y1="208.0" y2="208.0" stroke="#e2e8f0"/>
+<text x="70.0" y="212.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">1,500</text>
+<line x1="78" x2="732" y1="152.0" y2="152.0" stroke="#e2e8f0"/>
+<text x="70.0" y="156.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">2,000</text>
+<line x1="78" x2="732" y1="96.0" y2="96.0" stroke="#e2e8f0"/>
+<text x="70.0" y="100.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">2,500</text>
+<rect x="91.9" y="241.6" width="54.0" height="134.4" rx="2" fill="#1f3a5f"/>
+<text x="118.9" y="236.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">1,200</text>
+<rect x="173.6" y="230.4" width="54.0" height="11.2" rx="2" fill="#14b8a6"/>
+<text x="200.6" y="225.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+100</text>
+<line x1="145.9" x2="173.6" y1="241.6" y2="241.6" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="255.4" y="230.4" width="54.0" height="145.6" rx="2" fill="#1f3a5f"/>
+<text x="282.4" y="225.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">1,300</text>
+<line x1="227.6" x2="255.4" y1="230.4" y2="230.4" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="337.1" y="152.0" width="54.0" height="78.4" rx="2" fill="#14b8a6"/>
+<text x="364.1" y="147.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+700</text>
+<line x1="309.4" x2="337.1" y1="230.4" y2="230.4" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="418.9" y="152.0" width="54.0" height="224.0" rx="2" fill="#1f3a5f"/>
+<text x="445.9" y="147.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">2,000</text>
+<line x1="391.1" x2="418.9" y1="152.0" y2="152.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="500.6" y="118.4" width="54.0" height="33.6" rx="2" fill="#14b8a6"/>
+<text x="527.6" y="113.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+300</text>
+<line x1="472.9" x2="500.6" y1="152.0" y2="152.0" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="582.4" y="118.4" width="54.0" height="2.2" rx="2" fill="#c2410c"/>
+<text x="609.4" y="113.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-20</text>
+<line x1="554.6" x2="582.4" y1="118.4" y2="118.4" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="664.1" y="120.6" width="54.0" height="255.4" rx="2" fill="#1f3a5f"/>
+<text x="691.1" y="115.6" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">2,280</text>
+<line x1="636.4" x2="664.1" y1="120.6" y2="120.6" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="118.9" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Operating</text>
+<text x="118.9" y="407.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">income</text>
+<text x="200.6" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Restructuring</text>
+<text x="282.4" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">EBIT</text>
+<text x="364.1" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">D&amp;A</text>
+<text x="445.9" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">EBITDA</text>
+<text x="527.6" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Lease cost</text>
+<text x="609.4" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Sublease</text>
+<text x="609.4" y="407.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">income</text>
+<text x="691.1" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">EBITDAR</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 06, made-up numbers</text>
+</svg>

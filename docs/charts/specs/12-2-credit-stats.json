@@ -1,0 +1,3 @@
+{"type":"bar","title":"Leverage Falls Slowly","subtitle":"Debt to EBITDA in years 1, 3 and 5","source": "Module 12, Part 2, made-up numbers",
+"fmt":{"suffix":"x","decimals":1},"categories":["Year 1","Year 3","Year 5"],
+"series":[{"name":"Senior debt / EBITDA","values":[6.0,4.8,4.1]},{"name":"Total debt with leases / EBITDA","values":[8.5,7.2,6.4]}]}

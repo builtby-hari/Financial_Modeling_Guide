@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Net Income to Change in Cash">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Net Income to Change in Cash</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">One projection year, $ millions</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">-50.0</text>
+<line x1="78" x2="732" y1="306.0" y2="306.0" stroke="#e2e8f0"/>
+<text x="70.0" y="310.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">0.0</text>
+<line x1="78" x2="732" y1="236.0" y2="236.0" stroke="#e2e8f0"/>
+<text x="70.0" y="240.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">50.0</text>
+<line x1="78" x2="732" y1="166.0" y2="166.0" stroke="#e2e8f0"/>
+<text x="70.0" y="170.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">100.0</text>
+<line x1="78" x2="732" y1="96.0" y2="96.0" stroke="#e2e8f0"/>
+<text x="70.0" y="100.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">150.0</text>
+<line x1="78" x2="732" y1="306.0" y2="306.0" stroke="#94a3b8"/>
+<rect x="93.9" y="188.8" width="61.7" height="117.2" rx="2" fill="#1f3a5f"/>
+<text x="124.7" y="183.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">83.7</text>
+<rect x="187.3" y="144.7" width="61.7" height="44.1" rx="2" fill="#14b8a6"/>
+<text x="218.1" y="139.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+31.5</text>
+<line x1="155.5" x2="187.3" y1="188.8" y2="188.8" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="280.7" y="137.7" width="61.7" height="7.0" rx="2" fill="#14b8a6"/>
+<text x="311.6" y="132.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">+5.0</text>
+<line x1="249.0" x2="280.7" y1="144.7" y2="144.7" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="374.2" y="137.7" width="61.7" height="140.0" rx="2" fill="#c2410c"/>
+<text x="405.0" y="132.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-100.0</text>
+<line x1="342.4" x2="374.2" y1="137.7" y2="137.7" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="467.6" y="277.7" width="61.7" height="14.0" rx="2" fill="#c2410c"/>
+<text x="498.4" y="272.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-10.0</text>
+<line x1="435.8" x2="467.6" y1="277.7" y2="277.7" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="561.0" y="291.7" width="61.7" height="46.9" rx="2" fill="#c2410c"/>
+<text x="591.9" y="286.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-33.5</text>
+<line x1="529.3" x2="561.0" y1="291.7" y2="291.7" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<rect x="654.5" y="306.0" width="61.7" height="32.6" rx="2" fill="#1f3a5f"/>
+<text x="685.3" y="301.0" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">-23.3</text>
+<line x1="622.7" x2="654.5" y1="338.6" y2="338.6" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="124.7" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Net income</text>
+<text x="218.1" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">D&amp;A</text>
+<text x="311.6" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Working capital</text>
+<text x="405.0" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Capex</text>
+<text x="498.4" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Debt repayment</text>
+<text x="591.9" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Dividends</text>
+<text x="685.3" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Change in cash</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 02, Part 2, made-up numbers</text>
+</svg>

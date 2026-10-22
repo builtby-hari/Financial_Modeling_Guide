@@ -1,0 +1,30 @@
+{
+ "type": "waterfall",
+ "title": "Offer Price to Purchase Enterprise Value",
+ "subtitle": "$70 per share on 106 million diluted shares, $ millions",
+ "source": "Module 08, Part 2, made-up numbers",
+ "fmt": {
+  "prefix": "$",
+  "decimals": 0
+ },
+ "steps": [
+  {
+   "label": "Equity purchase price",
+   "value": 7420,
+   "total": true
+  },
+  {
+   "label": "Cash and securities",
+   "value": -500
+  },
+  {
+   "label": "Debt and leases",
+   "value": 800
+  },
+  {
+   "label": "Purchase EV",
+   "value": 7720,
+   "total": true
+  }
+ ]
+}

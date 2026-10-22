@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img" aria-label="Unlevered FCF as Growth Fades">
+<rect x="1" y="1" width="758" height="438" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="28" y="20" width="40" height="4" rx="2" fill="#14b8a6"/>
+<text x="28.0" y="46.0" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#1f3a5f" text-anchor="start" font-weight="bold">Unlevered FCF as Growth Fades</text>
+<text x="28.0" y="64.0" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#475569" text-anchor="start" font-weight="normal">Years 5 to 10, growth fading from 20% to 5%</text>
+<line x1="78" x2="732" y1="376.0" y2="376.0" stroke="#e2e8f0"/>
+<text x="70.0" y="380.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$0.0M</text>
+<line x1="78" x2="732" y1="306.0" y2="306.0" stroke="#e2e8f0"/>
+<text x="70.0" y="310.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$50.0M</text>
+<line x1="78" x2="732" y1="236.0" y2="236.0" stroke="#e2e8f0"/>
+<text x="70.0" y="240.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$100.0M</text>
+<line x1="78" x2="732" y1="166.0" y2="166.0" stroke="#e2e8f0"/>
+<text x="70.0" y="170.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$150.0M</text>
+<line x1="78" x2="732" y1="96.0" y2="96.0" stroke="#e2e8f0"/>
+<text x="70.0" y="100.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#475569" text-anchor="end" font-weight="normal">$200.0M</text>
+<rect x="105.5" y="248.2" width="54.0" height="127.8" rx="2" fill="#1f3a5f"/>
+<text x="132.5" y="243.2" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$91.3M</text>
+<rect x="214.5" y="228.4" width="54.0" height="147.6" rx="2" fill="#1f3a5f"/>
+<text x="241.5" y="223.4" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$105.4M</text>
+<rect x="323.5" y="209.8" width="54.0" height="166.2" rx="2" fill="#1f3a5f"/>
+<text x="350.5" y="204.8" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$118.7M</text>
+<rect x="432.5" y="193.7" width="54.0" height="182.3" rx="2" fill="#1f3a5f"/>
+<text x="459.5" y="188.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$130.2M</text>
+<rect x="541.5" y="181.3" width="54.0" height="194.7" rx="2" fill="#1f3a5f"/>
+<text x="568.5" y="176.3" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$139.1M</text>
+<rect x="650.5" y="173.7" width="54.0" height="202.3" rx="2" fill="#1f3a5f"/>
+<text x="677.5" y="168.7" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#1e293b" text-anchor="middle" font-weight="normal">$144.5M</text>
+<text x="132.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 5</text>
+<text x="241.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 6</text>
+<text x="350.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 7</text>
+<text x="459.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 8</text>
+<text x="568.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 9</text>
+<text x="677.5" y="394.0" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle" font-weight="normal">Year 10</text>
+<text x="740.0" y="428.0" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="normal">Module 14, Part 1, made-up numbers</text>
+</svg>
