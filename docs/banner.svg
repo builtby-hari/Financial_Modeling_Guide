@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="banner-title">
+  <title id="banner-title">Financial Modeling Guide</title>
+  <rect x="0" y="0" width="1200" height="240" fill="#ffffff"/>
+  <g stroke="#cbd5e1" stroke-width="1">
+    <line x1="60" y1="165" x2="1140" y2="165"/>
+    <line x1="60" y1="210" x2="1140" y2="210"/>
+  </g>
+  <text x="60" y="100" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="56" font-weight="700" fill="#1f3a5f">Financial Modeling Guide</text>
+  <text x="60" y="140" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="22" fill="#334155">Accounting · 3-Statement Models · DCF · M&amp;A · LBOs · Capital Markets</text>
+  <polyline points="60,205 200,194 330,200 470,176 600,182 740,148 880,156 1010,120 1140,94" fill="none" stroke="#14b8a6" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="1140" cy="94" r="5" fill="#14b8a6"/>
+</svg>
