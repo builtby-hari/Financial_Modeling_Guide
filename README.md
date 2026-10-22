@@ -102,7 +102,7 @@ Module 16 replaces the lesson structure with a topic-by-topic quick reference an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/builtby-hari/FinancialModelingGuide.git
+   git clone https://github.com/builtby-hari/Financial_Modeling_Guide.git
    ```
 
 2. Open Obsidian, choose "Open folder as vault", and select the cloned folder.
